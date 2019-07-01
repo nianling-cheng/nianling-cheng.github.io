@@ -1,10 +1,10 @@
-/*
+
 import COMMONMARK_RULES from './commonmark-rules'
 import Rules from './rules'
 import { extend } from './utilities'
 import RootNode from './root-node'
 import Node from './node'
-*/
+
 var reduce = Array.prototype.reduce
 var leadingNewLinesRegExp = /^\n*/
 var trailingNewLinesRegExp = /\n*$/
