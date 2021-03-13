@@ -28,11 +28,6 @@
 			<outline type="rss" text="BBC News 中文网" title="BBC News 中文网" xmlUrl="https://rsshub.app/bbc/chinese" htmlUrl="https://docs.rsshub.app"/>
 			<outline type="rss" text="中国-RFI" title="中国-RFI" xmlUrl="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/rss" htmlUrl="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/rss"/>
 			<outline type="rss" text="法国-RFI" title="法国-RFI" xmlUrl="http://www.chinese.rfi.fr/%E6%B3%95%E5%9B%BD/rss" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%9B%BD/rss"/>
-			<outline type="rss" text="华尔街日报" title="华尔街日报" xmlUrl="https://cn.wsj.com/zh-hans/rss" htmlUrl="https://cn.wsj.com"/>
-			<outline type="rss" text="寰宇新聞網" title="寰宇新聞網" xmlUrl="http://globalnewstv.com.tw/feed/" htmlUrl="http://globalnewstv.com.tw"/>
-			<outline type="rss" text="纽约时报中文网|每日简报" title="纽约时报中文网|每日简报" xmlUrl="https://rsshub.app/nytimes/morning_post" htmlUrl="https://m.cn.nytimes.com/morning-brief/"/>
-			<outline type="rss" text="BBC Chinese - 主页" title="BBC Chinese - 主页" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http%3A%2F%2Fwww.bbc.co.uk%2Fzhongwen%2Fsimp%2Findex.xml&amp;max=3" htmlUrl="http://www.bbc.co.uk/zhongwen/simp/index.xml"/>
-			<outline type="rss" text="美国之音" title="美国之音" xmlUrl="http://www.voachinese.com/api/" htmlUrl="https://www.voachinese.com"/>
 		</outline>
 	</body>
 </opml>
