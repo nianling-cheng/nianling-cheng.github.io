@@ -33,16 +33,6 @@
 			<outline type="rss" text="纽约时报中文网|每日简报" title="纽约时报中文网|每日简报" xmlUrl="https://rsshub.app/nytimes/morning_post" htmlUrl="https://m.cn.nytimes.com/morning-brief/"/>
 			<outline type="rss" text="BBC Chinese - 主页" title="BBC Chinese - 主页" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http%3A%2F%2Fwww.bbc.co.uk%2Fzhongwen%2Fsimp%2Findex.xml&amp;max=3" htmlUrl="http://www.bbc.co.uk/zhongwen/simp/index.xml"/>
 			<outline type="rss" text="美国之音" title="美国之音" xmlUrl="http://www.voachinese.com/api/" htmlUrl="https://www.voachinese.com"/>
-			<outline type="rss" text="Cheers雜誌精選文章" title="Cheers雜誌精選文章" xmlUrl="http://www.cw.com.tw/RSS/cheers.xml" htmlUrl="http://www.cheers.com.tw"/>
-			<outline type="rss" text="国际 东亚-朝日新聞中文网" title="国际 东亚-朝日新聞中文网" xmlUrl="https://rsshub.app/asahichinese-j/world" htmlUrl="https://asahichinese-j.com/world/"/>
-			<outline type="rss" text="香港獨立媒體網" title="香港獨立媒體網" xmlUrl="http://www.inmediahk.net/rss.xml" htmlUrl="https://www.inmediahk.net"/>
-			<outline type="rss" text="風傳媒" title="風傳媒" xmlUrl="http://www.stormmediagroup.com/opencms/rss/site.jsp" htmlUrl="https://www.storm.mg"/>
-			<outline type="rss" text="香港政府新聞網 - 重要新聞" title="香港政府新聞網 - 重要新聞" xmlUrl="http://www.news.gov.hk/rss/news/topstories_zh.xml" htmlUrl="https://www.news.gov.hk/chi/index.html"/>
-			<outline type="rss" text="遠見雜誌 - 前進的動力" title="遠見雜誌 - 前進的動力" xmlUrl="http://www.gvm.com.tw/RSS/rss.asp" htmlUrl="https://www.gvm.com.tw/"/>
-			<outline type="rss" text="頭條日報 Headline Daily - 頭條網" title="頭條日報 Headline Daily - 頭條網" xmlUrl="http://hd.stheadline.com/rss/news/daily/" htmlUrl="http://hd.stheadline.com/news/daily/"/>
-			<outline type="rss" text="亚太报道" title="亚太报道" xmlUrl="http://www.rfa.org/mandarin/yataibaodao/RSS" htmlUrl="https://www.rfa.org/mandarin/yataibaodao"/>
-			<outline type="rss" text="香港輕新聞 Lite News Hong Kong" title="香港輕新聞 Lite News Hong Kong" xmlUrl="http://litenews.hk/feed/" htmlUrl="https://www.litenews.hk"/>
-			<outline type="rss" text="首頁10條推薦" title="首頁10條推薦" xmlUrl="http://www.peopo.org/rss-top10" htmlUrl="https://www.peopo.org/"/>
 		</outline>
 	</body>
 </opml>
