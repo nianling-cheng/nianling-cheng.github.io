@@ -102,5 +102,6 @@
 			<outline type="rss" text="中国日报：时政" title="中国日报：时政" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.chinadaily.xml" htmlUrl="http://china.chinadaily.com.cn/5bd5639ca3101a87ca8ff636"/>
 			<outline type="rss" text="联合早报-国际-即时" title="联合早报-国际-即时" xmlUrl="https://rsshub.app/zaobao/realtime/world" htmlUrl="https://www.zaobao.com/realtime/world"/>
 			<outline type="rss" text="BBC News 中文 uploads on YouTube" title="BBC News 中文 uploads on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/BBCZhongwen/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUb3TZ4SD_Ys3j4z0-8o6auA"/>
+		</outline>
 	</body>
 </opml>
