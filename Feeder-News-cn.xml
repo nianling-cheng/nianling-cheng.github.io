@@ -27,7 +27,6 @@
 			<outline type="rss" text="紐約時報中文網 國際縱覽" title="紐約時報中文網 國際縱覽" xmlUrl="http://cn.nytimes.com/rss/zh-hant/" htmlUrl="https://cn.nytimes.com"/>
 			<outline type="rss" text="BBC News 中文网" title="BBC News 中文网" xmlUrl="https://rsshub.app/bbc/chinese" htmlUrl="https://docs.rsshub.app"/>
 			<outline type="rss" text="中国-RFI" title="中国-RFI" xmlUrl="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/rss" htmlUrl="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/rss"/>
-			<outline type="rss" text="南方周末" title="南方周末" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hot.infzm.com.xml" htmlUrl="http://infzm.com"/>
 			<outline type="rss" text="腾讯新闻：国内" title="腾讯新闻：国内" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.qq.com.xml" htmlUrl="https://news.qq.com/"/>
 			<outline type="rss" text="重點新聞" title="重點新聞" xmlUrl="http://feeds.feedburner.com/coolloudheadlines" htmlUrl="https://www.coolloud.org.tw/"/>
 			<outline type="rss" text="法国-RFI" title="法国-RFI" xmlUrl="http://www.chinese.rfi.fr/%E6%B3%95%E5%9B%BD/rss" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%9B%BD/rss"/>
@@ -37,7 +36,7 @@
 			<outline type="rss" text="BBC Chinese - 主页" title="BBC Chinese - 主页" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=http%3A%2F%2Fwww.bbc.co.uk%2Fzhongwen%2Fsimp%2Findex.xml&amp;max=3" htmlUrl="http://www.bbc.co.uk/zhongwen/simp/index.xml"/>
 			<outline type="rss" text="美国之音" title="美国之音" xmlUrl="http://www.voachinese.com/api/" htmlUrl="https://www.voachinese.com"/>
 			<outline type="rss" text="Cheers雜誌精選文章" title="Cheers雜誌精選文章" xmlUrl="http://www.cw.com.tw/RSS/cheers.xml" htmlUrl="http://www.cheers.com.tw"/>
-			<outline type="rss" text="国际・东亚-朝日新聞中文网" title="国际・东亚-朝日新聞中文网" xmlUrl="https://rsshub.app/asahichinese-j/world" htmlUrl="https://asahichinese-j.com/world/"/>
+			<outline type="rss" text="国际 东亚-朝日新聞中文网" title="国际 东亚-朝日新聞中文网" xmlUrl="https://rsshub.app/asahichinese-j/world" htmlUrl="https://asahichinese-j.com/world/"/>
 			<outline type="rss" text="香港獨立媒體網" title="香港獨立媒體網" xmlUrl="http://www.inmediahk.net/rss.xml" htmlUrl="https://www.inmediahk.net"/>
 			<outline type="rss" text="風傳媒" title="風傳媒" xmlUrl="http://www.stormmediagroup.com/opencms/rss/site.jsp" htmlUrl="https://www.storm.mg"/>
 			<outline type="rss" text="香港政府新聞網 - 重要新聞" title="香港政府新聞網 - 重要新聞" xmlUrl="http://www.news.gov.hk/rss/news/topstories_zh.xml" htmlUrl="https://www.news.gov.hk/chi/index.html"/>
@@ -60,7 +59,6 @@
 			<outline type="rss" text="BBC" title="BBC" xmlUrl="https://feedx.net/rss/bbc.xml" htmlUrl="http://bbc.com"/>
 			<outline type="rss" text="香港特區政府新聞公報" title="香港特區政府新聞公報" xmlUrl="http://www.info.gov.hk/gia/rss/general_zh.xml" htmlUrl="http://www.info.gov.hk/gia/general/ctoday.htm"/>
 			<outline type="rss" text="Deutsche Welle: DW-WORLD.DE" title="Deutsche Welle: DW-WORLD.DE" xmlUrl="http://rss.dw-world.de/rdf/rss-chi-all" htmlUrl="http://www.dw.com/chinese/?maca=chi-rss-chi-all-1127-rdf"/>
-			<outline type="rss" text="宅宅新聞 by 卡卡洛普 » 最新" title="宅宅新聞 by 卡卡洛普 » 最新" xmlUrl="http://news.gamme.com.tw/feed" htmlUrl="https://news.gamme.com.tw/category/all"/>
 			<outline type="rss" text="新唐人電視台" title="新唐人電視台" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdbvc-yJ4JQjNGTgFiJIZNA" htmlUrl="https://www.youtube.com/channel/UCdbvc-yJ4JQjNGTgFiJIZNA"/>
 			<outline type="rss" text="明報新聞網-即時新聞 RSS 總目錄" title="明報新聞網-即時新聞 RSS 總目錄" xmlUrl="http://news2.mingpao.com/rss/ins/all.xml" htmlUrl="https://news.mingpao.com/"/>
 			<outline type="rss" text="國際新聞 - 自由時報" title="國際新聞 - 自由時報" xmlUrl="http://news.ltn.com.tw/rss/world.xml" htmlUrl="https://news.ltn.com.tw/list/breakingnews/world"/>
