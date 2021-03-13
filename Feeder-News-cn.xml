@@ -4,8 +4,8 @@
 		<title>William subscriptions in feedly Cloud</title>
 	</head>
 	<body>
-		<outline text="#News" title="#News">
-			<outline type="rss" text="Market" title="Market" xmlUrl="http://www.newsmarket.com.tw/feed/atom/" htmlUrl="https://www.newsmarket.com.tw"/>
+		<outline text="#News - 中文" title="#News - 中文">
+			<outline type="rss" text="上下游News&amp;Market" title="上下游News&amp;Market" xmlUrl="http://www.newsmarket.com.tw/feed/atom/" htmlUrl="https://www.newsmarket.com.tw"/>
 		</outline>
 	</body>
 </opml>
