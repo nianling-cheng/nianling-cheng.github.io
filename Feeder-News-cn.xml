@@ -26,8 +26,6 @@
 			<outline type="rss" text="法广_头条新闻-RFI" title="法广_头条新闻-RFI" xmlUrl="http://cn.rfi.fr/general/rss/" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%B9%BF_%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB/rss"/>
 			<outline type="rss" text="紐約時報中文網 國際縱覽" title="紐約時報中文網 國際縱覽" xmlUrl="http://cn.nytimes.com/rss/zh-hant/" htmlUrl="https://cn.nytimes.com"/>
 			<outline type="rss" text="BBC News 中文网" title="BBC News 中文网" xmlUrl="https://rsshub.app/bbc/chinese" htmlUrl="https://docs.rsshub.app"/>
-			<outline type="rss" text="中国-RFI" title="中国-RFI" xmlUrl="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/rss" htmlUrl="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/rss"/>
-			<outline type="rss" text="法国-RFI" title="法国-RFI" xmlUrl="http://www.chinese.rfi.fr/%E6%B3%95%E5%9B%BD/rss" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%9B%BD/rss"/>
 		</outline>
 	</body>
 </opml>
