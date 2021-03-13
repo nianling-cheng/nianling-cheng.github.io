@@ -69,7 +69,6 @@
 			<outline type="rss" text="BBC News 中文 (uploads) on YouTube" title="BBC News 中文 (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/BBCZhongwen/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUb3TZ4SD_Ys3j4z0-8o6auA"/>
 			<outline type="rss" text="中国 - 美国之音" title="中国 - 美国之音" xmlUrl="http://www.voachinese.com/rss/?count=50&amp;zoneid=1757" htmlUrl="https://www.voachinese.com/z/1757"/>
 			<outline type="rss" text="宅宅新聞 by 卡卡洛普 » 最新" title="宅宅新聞 by 卡卡洛普 » 最新" xmlUrl="http://news.gamme.com.tw/feed" htmlUrl="https://news.gamme.com.tw/category/all"/>
-			<outline type="rss" text="新唐人電視台" title="新唐人電視台" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdbvc-yJ4JQjNGTgFiJIZNA" htmlUrl="https://www.youtube.com/channel/UCdbvc-yJ4JQjNGTgFiJIZNA"/>
 			<outline type="rss" text="法国国际广播电台中文网页" title="法国国际广播电台中文网页" xmlUrl="http://www.rfi.fr/actucn/pages/001/accueil.xml" htmlUrl="http://www.rfi.fr"/>
 			<outline type="rss" text="明報新聞網-即時新聞 RSS 總目錄" title="明報新聞網-即時新聞 RSS 總目錄" xmlUrl="http://news2.mingpao.com/rss/ins/all.xml" htmlUrl="https://news.mingpao.com/"/>
 			<outline type="rss" text="國際新聞 - 自由時報" title="國際新聞 - 自由時報" xmlUrl="http://news.ltn.com.tw/rss/world.xml" htmlUrl="https://news.ltn.com.tw/list/breakingnews/world"/>
