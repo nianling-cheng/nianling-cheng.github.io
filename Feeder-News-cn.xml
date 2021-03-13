@@ -27,7 +27,6 @@
 			<outline type="rss" text="紐約時報中文網 國際縱覽" title="紐約時報中文網 國際縱覽" xmlUrl="http://cn.nytimes.com/rss/zh-hant/" htmlUrl="https://cn.nytimes.com"/>
 			<outline type="rss" text="BBC News 中文网" title="BBC News 中文网" xmlUrl="https://rsshub.app/bbc/chinese" htmlUrl="https://docs.rsshub.app"/>
 			<outline type="rss" text="中国-RFI" title="中国-RFI" xmlUrl="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/rss" htmlUrl="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/rss"/>
-			<outline type="rss" text="重點新聞" title="重點新聞" xmlUrl="http://feeds.feedburner.com/coolloudheadlines" htmlUrl="https://www.coolloud.org.tw/"/>
 			<outline type="rss" text="法国-RFI" title="法国-RFI" xmlUrl="http://www.chinese.rfi.fr/%E6%B3%95%E5%9B%BD/rss" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%9B%BD/rss"/>
 			<outline type="rss" text="华尔街日报" title="华尔街日报" xmlUrl="https://cn.wsj.com/zh-hans/rss" htmlUrl="https://cn.wsj.com"/>
 			<outline type="rss" text="寰宇新聞網" title="寰宇新聞網" xmlUrl="http://globalnewstv.com.tw/feed/" htmlUrl="http://globalnewstv.com.tw"/>
@@ -61,7 +60,6 @@
 			<outline type="rss" text="明報新聞網-即時新聞 RSS 總目錄" title="明報新聞網-即時新聞 RSS 總目錄" xmlUrl="http://news2.mingpao.com/rss/ins/all.xml" htmlUrl="https://news.mingpao.com/"/>
 			<outline type="rss" text="國際新聞 - 自由時報" title="國際新聞 - 自由時報" xmlUrl="http://news.ltn.com.tw/rss/world.xml" htmlUrl="https://news.ltn.com.tw/list/breakingnews/world"/>
 			<outline type="rss" text="普通话主页" title="普通话主页" xmlUrl="http://www.rfa.org/mandarin/RSS" htmlUrl="https://www.rfa.org/mandarin"/>
-			<outline type="rss" text="《联合早报》-中港台-即时" title="《联合早报》-中港台-即时" xmlUrl="https://rsshub.app/zaobao/realtime/china" htmlUrl="https://www.zaobao.com/realtime/china"/>
 			<outline type="rss" text="俄罗斯卫星通讯社 新闻：快讯，中国及国际新闻事件，头条新闻及热点问题" title="俄罗斯卫星通讯社 新闻：快讯，中国及国际新闻事件，头条新闻及热点问题" xmlUrl="http://rusnews.cn/export/rss2/index.xml" htmlUrl="http://sputniknews.cn"/>
 			<outline type="rss" text="ETtoday 新聞雲" title="ETtoday 新聞雲" xmlUrl="http://feeds.feedburner.com/ettoday/realtime" htmlUrl="https://www.ettoday.net"/>
 			<outline type="rss" text="公視新聞網" title="公視新聞網" xmlUrl="http://about.pts.org.tw/rss/XML/newsfeed.xml" htmlUrl="https://news.pts.org.tw"/>
