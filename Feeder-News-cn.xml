@@ -1,4 +1,4 @@
-<?xml version="1.1" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 	<head>
 		<title>William subscriptions in feedly Cloud</title>
@@ -65,7 +65,6 @@
 			<outline type="rss" text="BBC" title="BBC" xmlUrl="https://feedx.net/rss/bbc.xml" htmlUrl="http://bbc.com"/>
 			<outline type="rss" text="香港特區政府新聞公報" title="香港特區政府新聞公報" xmlUrl="http://www.info.gov.hk/gia/rss/general_zh.xml" htmlUrl="http://www.info.gov.hk/gia/general/ctoday.htm"/>
 			<outline type="rss" text="Deutsche Welle: DW-WORLD.DE" title="Deutsche Welle: DW-WORLD.DE" xmlUrl="http://rss.dw-world.de/rdf/rss-chi-all" htmlUrl="http://www.dw.com/chinese/?maca=chi-rss-chi-all-1127-rdf"/>
-			<outline type="rss" text="《联合早报》-国际-即时" title="《联合早报》-国际-即时" xmlUrl="https://rsshub.app/zaobao/realtime/world" htmlUrl="https://www.zaobao.com/realtime/world"/>
 			<outline type="rss" text="BBC News 中文 (uploads) on YouTube" title="BBC News 中文 (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/BBCZhongwen/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUb3TZ4SD_Ys3j4z0-8o6auA"/>
 			<outline type="rss" text="中国 - 美国之音" title="中国 - 美国之音" xmlUrl="http://www.voachinese.com/rss/?count=50&amp;zoneid=1757" htmlUrl="https://www.voachinese.com/z/1757"/>
 			<outline type="rss" text="宅宅新聞 by 卡卡洛普 » 最新" title="宅宅新聞 by 卡卡洛普 » 最新" xmlUrl="http://news.gamme.com.tw/feed" htmlUrl="https://news.gamme.com.tw/category/all"/>
@@ -102,5 +101,6 @@
 			<outline type="rss" text="ETtoday 國際新聞" title="ETtoday 國際新聞" xmlUrl="http://feeds.feedburner.com/ettoday/global" htmlUrl="https://www.ettoday.net"/>
 			<outline type="rss" text="Global Voices 繁體中文" title="Global Voices 繁體中文" xmlUrl="http://zh.globalvoicesonline.org/hant/feed/" htmlUrl="https://zht.globalvoices.org"/></outline>
 			<outline type="rss" text="中国日报：时政" title="中国日报：时政" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.chinadaily.xml" htmlUrl="http://china.chinadaily.com.cn/5bd5639ca3101a87ca8ff636"/>
+			<outline type="rss" text="联合早报-国际-即时" title="联合早报-国际-即时" xmlUrl="https://rsshub.app/zaobao/realtime/world" htmlUrl="https://www.zaobao.com/realtime/world"/>
 	</body>
 </opml>
