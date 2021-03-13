@@ -64,7 +64,9 @@
 			<outline type="rss" text="时政频道_新华网" title="时政频道_新华网" xmlUrl="http://www.xinhuanet.com/politics/news_politics.xml" htmlUrl="http://www.xinhuanet.com/politics/xw.htm"/>
 			<outline type="rss" text="BBC" title="BBC" xmlUrl="https://feedx.net/rss/bbc.xml" htmlUrl="http://bbc.com"/>
 			<outline type="rss" text="香港特區政府新聞公報" title="香港特區政府新聞公報" xmlUrl="http://www.info.gov.hk/gia/rss/general_zh.xml" htmlUrl="http://www.info.gov.hk/gia/general/ctoday.htm"/>
-			<outline type="rss" text="Deutsche Welle DW-WORLD.DE" title="Deutsche Welle DW-WORLD.DE" xmlUrl="http://rss.dw-world.de/rdf/rss-chi-all" htmlUrl="http://www.dw.com/chinese/?maca=chi-rss-chi-all-1127-rdf"/>
+			<outline type="rss" text="Deutsche Welle: DW-WORLD.DE" title="Deutsche Welle: DW-WORLD.DE" xmlUrl="http://rss.dw-world.de/rdf/rss-chi-all" htmlUrl="http://www.dw.com/chinese/?maca=chi-rss-chi-all-1127-rdf"/>
+			<outline type="rss" text="《联合早报》-国际-即时" title="《联合早报》-国际-即时" xmlUrl="https://rsshub.app/zaobao/realtime/world" htmlUrl="https://www.zaobao.com/realtime/world"/>
+			<outline type="rss" text="BBC News 中文 (uploads) on YouTube" title="BBC News 中文 (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/BBCZhongwen/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUb3TZ4SD_Ys3j4z0-8o6auA"/>
 			<outline type="rss" text="中国 - 美国之音" title="中国 - 美国之音" xmlUrl="http://www.voachinese.com/rss/?count=50&amp;zoneid=1757" htmlUrl="https://www.voachinese.com/z/1757"/>
 			<outline type="rss" text="宅宅新聞 by 卡卡洛普 » 最新" title="宅宅新聞 by 卡卡洛普 » 最新" xmlUrl="http://news.gamme.com.tw/feed" htmlUrl="https://news.gamme.com.tw/category/all"/>
 			<outline type="rss" text="新唐人電視台" title="新唐人電視台" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdbvc-yJ4JQjNGTgFiJIZNA" htmlUrl="https://www.youtube.com/channel/UCdbvc-yJ4JQjNGTgFiJIZNA"/>
@@ -84,6 +86,7 @@
 			<outline type="rss" text="RCI | 中文" title="RCI | 中文" xmlUrl="http://www.rcinet.ca/zh/feed/" htmlUrl="https://www.rcinet.ca/zh"/>
 			<outline type="rss" text="香港電台：視像新聞" title="香港電台：視像新聞" xmlUrl="http://podcast.rthk.hk/podcast/videonews_i.xml" htmlUrl="http://podcast.rthk.org.hk/podcast/item.php?pid=113"/>
 			<outline type="rss" text="政见 CNPolitics.org" title="政见 CNPolitics.org" xmlUrl="http://cnpolitics.org/feed/" htmlUrl="http://cnpolitics.org"/>
+			<outline type="rss" text="中国日报: 时政" title="中国日报: 时政" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.chinadaily.xml" htmlUrl="http://china.chinadaily.com.cn/5bd5639ca3101a87ca8ff636"/>
 			<outline type="rss" text="路透社 - 实时资讯" title="路透社 - 实时资讯" xmlUrl="https://rsshub.app/reuters/theWire" htmlUrl="https://cn.reuters.com/theWire"/>
 			<outline type="rss" text="ETtoday 政治新聞" title="ETtoday 政治新聞" xmlUrl="http://feeds.feedburner.com/ettoday/news" htmlUrl="https://www.ettoday.net"/>
 			<outline type="rss" text="立場新聞 Stand News" title="立場新聞 Stand News" xmlUrl="http://www.thestandnews.com/rss/" htmlUrl="https://thestandnews.com/"/>
@@ -99,9 +102,6 @@
 			<outline type="rss" text="多维新闻网 - 要闻" title="多维新闻网 - 要闻" xmlUrl="https://rsshub.app/dwnews/yaowen" htmlUrl="https://www.dwnews.com"/>
 			<outline type="rss" text="ETtoday 國際新聞" title="ETtoday 國際新聞" xmlUrl="http://feeds.feedburner.com/ettoday/global" htmlUrl="https://www.ettoday.net"/>
 			<outline type="rss" text="Global Voices 繁體中文" title="Global Voices 繁體中文" xmlUrl="http://zh.globalvoicesonline.org/hant/feed/" htmlUrl="https://zht.globalvoices.org"/></outline>
-			<outline type="rss" text="中国日报：时政" title="中国日报：时政" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.chinadaily.xml" htmlUrl="http://china.chinadaily.com.cn/5bd5639ca3101a87ca8ff636"/>
-			<outline type="rss" text="联合早报-国际-即时" title="联合早报-国际-即时" xmlUrl="https://rsshub.app/zaobao/realtime/world" htmlUrl="https://www.zaobao.com/realtime/world"/>
-			<outline type="rss" text="BBC News 中文 uploads on YouTube" title="BBC News 中文 uploads on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/BBCZhongwen/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUb3TZ4SD_Ys3j4z0-8o6auA"/>
 		</outline>
 	</body>
 </opml>
