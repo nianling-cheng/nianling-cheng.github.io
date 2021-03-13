@@ -101,7 +101,7 @@
 			<outline type="rss" text="新闻国内" title="新闻国内" xmlUrl="http://news.qq.com/newsgn/rss_newsgn.xml" htmlUrl="http://news.qq.com/china_index.shtml"/>
 			<outline type="rss" text="多维新闻网 - 要闻" title="多维新闻网 - 要闻" xmlUrl="https://rsshub.app/dwnews/yaowen" htmlUrl="https://www.dwnews.com"/>
 			<outline type="rss" text="ETtoday 國際新聞" title="ETtoday 國際新聞" xmlUrl="http://feeds.feedburner.com/ettoday/global" htmlUrl="https://www.ettoday.net"/>
-			<outline type="rss" text="Global Voices 繁體中文" title="Global Voices 繁體中文" xmlUrl="http://zh.globalvoicesonline.org/hant/feed/" htmlUrl="https://zht.globalvoices.org"/></outline>
+			<outline type="rss" text="Global Voices 繁體中文" title="Global Voices 繁體中文" xmlUrl="http://zh.globalvoicesonline.org/hant/feed/" htmlUrl="https://zht.globalvoices.org"/>
 		</outline>
 	</body>
 </opml>
