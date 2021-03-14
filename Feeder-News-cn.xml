@@ -4,7 +4,7 @@
 		<title>William subscriptions in feedly Cloud</title>
 	</head>
 	<body>
-		<outline text="#News - 中文" title="#News - 中文">
+		<outline text="LATEST_NEWS" title="LATEST_NEWS">
 			<outline type="rss" text="上下游News&amp;Market" title="上下游News&amp;Market" xmlUrl="http://www.newsmarket.com.tw/feed/atom/" htmlUrl="https://www.newsmarket.com.tw"/>
 			<outline type="rss" text="轉角國際 udn Global | 過去24小時" title="轉角國際 udn Global | 過去24小時" xmlUrl="http://global.udn.com/rss/news/1020/8662" htmlUrl="https://global.udn.com"/>
 			<outline type="rss" text="頭條網 - 日報新聞" title="頭條網 - 日報新聞" xmlUrl="http://news.hkheadline.com/dailynews/xml/daily_news_xml.xml" htmlUrl="http://www.hkheadline.com/dailynews/index.asp"/>
