@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>William subscriptions in feedly Cloud</title>
+	</head>
+	<body>
+		<outline text="#Politics - 中文" title="#Politics - 中文"/>
+		<outline text="#News - 中文" title="#News - 中文"/>
+		<outline text="#Videos - 中文" title="#Videos - 中文">
+			<outline type="rss" text="台灣啟示錄" title="台灣啟示錄" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqdR2j_W3QRyw5nc-0Ku-0A" htmlUrl="https://www.youtube.com/channel/UCqdR2j_W3QRyw5nc-0Ku-0A"/>
+			<outline type="rss" text="國家地理 National Geographic" title="國家地理 National Geographic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzuH3UncFcXOKrz4XOYARTw" htmlUrl="https://www.youtube.com/channel/UCzuH3UncFcXOKrz4XOYARTw"/>
+			<outline type="rss" text="明鏡火拍" title="明鏡火拍" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdKyM0XmuvQrD0o5TNhUtkQ" htmlUrl="https://www.youtube.com/channel/UCdKyM0XmuvQrD0o5TNhUtkQ"/>
+			<outline type="rss" text="少康戰情室" title="少康戰情室" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLZBXiS9ZrIXgKBs_SMfGBQ" htmlUrl="https://www.youtube.com/channel/UCLZBXiS9ZrIXgKBs_SMfGBQ"/>
+			<outline type="rss" text="特攝-動漫花園資源網" title="特攝-動漫花園資源網" xmlUrl="http://share.dmhy.org/topics/rss/sort_id/12/rss.xml" htmlUrl="http://share.dmhy.org"/>
+			<outline type="rss" text="寰宇全視界 - YouTube" title="寰宇全視界 - YouTube" xmlUrl="https://rsshub.app/youtube/channel/UCiOR3zQCU-tLza5g1MuqABA" htmlUrl="https://www.youtube.com/channel/UCiOR3zQCU-tLza5g1MuqABA"/>
+			<outline type="rss" text="關鍵時刻" title="關鍵時刻" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKQVSNdzGBJSXaUmS4TOWww" htmlUrl="https://www.youtube.com/channel/UCKQVSNdzGBJSXaUmS4TOWww"/>
+			<outline type="rss" text="时事大家谈 - 美国之音" title="时事大家谈 - 美国之音" xmlUrl="http://www.voachinese.com/rss/?count=50&amp;zoneid=1904" htmlUrl="https://www.voachinese.com/z/1904"/>
+			<outline type="rss" text="台視新聞 TTV NEWS" title="台視新聞 TTV NEWS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8ROUUjHzEQm-ndb69CX8Ww" htmlUrl="https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww"/>
+			<outline type="rss" text="李永乐老师" title="李永乐老师" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSs4A6HYKmHA2MG_0z-F0xw" htmlUrl="https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw"/>
+			<outline type="rss" text="巫师财经 - YouTube" title="巫师财经 - YouTube" xmlUrl="https://rsshub.app/youtube/channel/UC55ahPQ7m5iJdVWcOfmuE6g" htmlUrl="https://www.youtube.com/channel/UC55ahPQ7m5iJdVWcOfmuE6g"/>
+			<outline type="rss" text="老天鵝娛樂 (uploads) on YouTube" title="老天鵝娛樂 (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UU_iwP8I13JnL54BypRCzldw" htmlUrl="https://youtube.com/playlist?list=UU_iwP8I13JnL54BypRCzldw"/>
+			<outline type="rss" text="袁腾飞官方频道 Tengfei Official" title="袁腾飞官方频道 Tengfei Official" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5xunxPS6oZ1zzKufgREFuA" htmlUrl="https://www.youtube.com/channel/UC5xunxPS6oZ1zzKufgREFuA"/>
+			<outline type="rss" text="李四端的雲端世界" title="李四端的雲端世界" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7_BFMWW2l5aXkx33ml0qOw" htmlUrl="https://www.youtube.com/channel/UC7_BFMWW2l5aXkx33ml0qOw"/>
+			<outline type="rss" text="李子柒 Liziqi (uploads) on YouTube" title="李子柒 Liziqi (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUoC47do520os_4DBMEFGg4A" htmlUrl="https://youtube.com/playlist?list=UUoC47do520os_4DBMEFGg4A"/>
+			<outline type="rss" text="自由亚洲电台" title="自由亚洲电台" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC06ZfP4ru4C8uV6nkq58IuQ" htmlUrl="https://www.youtube.com/channel/UC06ZfP4ru4C8uV6nkq58IuQ"/>
+			<outline type="rss" text="B.C. &amp; Lowy" title="B.C. &amp; Lowy" xmlUrl="http://forgetfulbc.blogspot.com/feeds/posts/default" htmlUrl="http://forgetfulbc.blogspot.com/"/>
+			<outline type="rss" text="華視新聞 CTS News (uploads) on YouTube" title="華視新聞 CTS News (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/TBSCTS/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUDCJyLpbfgeVE9iZiEam-Kg"/>
+			<outline type="rss" text="香港政府新聞網 - 特寫" title="香港政府新聞網 - 特寫" xmlUrl="http://www.news.gov.hk/tc/feature/index.rss.xml" htmlUrl="https://www.news.gov.hk/chi/feature/index.html"/>
+			<outline type="rss" text="中時新聞網 (uploads) on YouTube" title="中時新聞網 (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/ChinaTimes/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUmdVfsLHu18lCkKYXSOGUxg"/>
+			<outline type="rss" text="文昭談古論今 -Wen Zhao Official" title="文昭談古論今 -Wen Zhao Official" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtAIPjABiQD3qjlEl1T5VpA" htmlUrl="https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA"/>
+			<outline type="rss" text="新唐人電視台" title="新唐人電視台" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdbvc-yJ4JQjNGTgFiJIZNA" htmlUrl="https://www.youtube.com/channel/UCdbvc-yJ4JQjNGTgFiJIZNA"/>
+			<outline type="rss" text="混乱博物馆 的 bilibili 空间" title="混乱博物馆 的 bilibili 空间" xmlUrl="https://rsshub.app/bilibili/user/video/97177641" htmlUrl="https://space.bilibili.com/97177641"/>
+			<outline type="rss" text="日劇-動漫花園資源網" title="日劇-動漫花園資源網" xmlUrl="http://share.dmhy.org/topics/rss/sort_id/6/rss.xml" htmlUrl="http://share.dmhy.org"/>
+			<outline type="rss" text="The News Lens 關鍵評論網" title="The News Lens 關鍵評論網" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4bokYuSrVGpI6_WYv7Gdbw" htmlUrl="https://www.youtube.com/channel/UC4bokYuSrVGpI6_WYv7Gdbw"/>
+			<outline type="rss" text="中天電視 (uploads) on YouTube" title="中天電視 (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/ctitv/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UU5l1Yto5oOIgRXlI4p4VKbw"/>
+			<outline type="rss" text="老外看中國、老外看台灣 | A Laowai's View of China &amp; Taiwan | 郝毅博 Ben Hedges (uploads) on YouTube" title="老外看中國、老外看台灣 | A Laowai's View of China &amp; Taiwan | 郝毅博 Ben Hedges (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/Laowaikanzhongguo/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUZZslGLyRd2rbnF07SVoouA"/>
+			<outline type="rss" text="三立iNEWS" title="三立iNEWS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoNYj9OFHZn3ACmmeRCPwbA" htmlUrl="https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA"/>
+			<outline type="rss" text="越哥说电影 - YouTube" title="越哥说电影 - YouTube" xmlUrl="https://rsshub.app/youtube/channel/UChgCVolsF6L7DWmOpWKSkMA" htmlUrl="https://www.youtube.com/channel/UChgCVolsF6L7DWmOpWKSkMA"/>
+			<outline type="rss" text="天下雜誌video (uploads) on YouTube" title="天下雜誌video (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/CWTV/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUoS753iLrVE-1PZrsUak6Qg"/>
+			<outline type="rss" text="眼球中央電視台" title="眼球中央電視台" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTqPBBnP2T57kmiPQ87986g" htmlUrl="https://www.youtube.com/channel/UCTqPBBnP2T57kmiPQ87986g"/>
+			<outline type="rss" text="TomoNews 台灣 (uploads) on YouTube" title="TomoNews 台灣 (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/NMANews/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UU778cAEgKGDmh-teUWdg-uQ"/>
+			<outline type="rss" text="文茜的世界周報 Sisy's World News (uploads) on YouTube" title="文茜的世界周報 Sisy's World News (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUiwt1aanVMoPYUt_CQYCPQg" htmlUrl="https://youtube.com/playlist?list=UUiwt1aanVMoPYUt_CQYCPQg"/>
+			<outline type="rss" text="TVBT菊花台 - 【日菁字幕组】" title="TVBT菊花台 - 【日菁字幕组】" xmlUrl="http://www.mytvbt.net/rss.php?fid=6&amp;auth=0" htmlUrl="http://www.mytvbt.net/forumdisplay.php?fid=6"/>
+			<outline type="rss" text="新聞拍案驚奇 大宇" title="新聞拍案驚奇 大宇" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOLfSutoyLeSggX7oLbrBDQ" htmlUrl="https://www.youtube.com/channel/UCOLfSutoyLeSggX7oLbrBDQ"/>
+			<outline type="rss" text="商业_界面新闻" title="商业_界面新闻" xmlUrl="https://rsshub.app/jiemian/list/2" htmlUrl="https://a.jiemian.com/index.php?m=lists&amp;a=ajaxNews&amp;cid=2&amp;page=1"/>
+			<outline type="rss" text="美国之音中文网 (uploads) on YouTube" title="美国之音中文网 (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/VOAchina/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://youtube.com/playlist?list=UUt5zpwa264A0B-gaYtv1IpA"/>
+			<outline type="rss" text="東森新聞 CH51" title="東森新聞 CH51" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR3asjvr_WAaxwJYEDV_Bfw" htmlUrl="https://www.youtube.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw"/>
+			<outline type="rss" text="明镜电视" title="明镜电视" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3lyWHqUY9IiP4en5jnY6vA" htmlUrl="https://www.youtube.com/channel/UC3lyWHqUY9IiP4en5jnY6vA"/>
+			<outline type="rss" text="鏗鏘集" title="鏗鏘集" xmlUrl="http://podcast.rthk.hk/podcast/hongkongconnection_i.xml" htmlUrl="https://podcast.rthk.hk/podcast/item.php?pid=244"/>
+			<outline type="rss" text="民視讚夯 Formosa TV Thumbs Up" title="民視讚夯 Formosa TV Thumbs Up" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS3nuaXXw7nsiSzdJ5HJaoQ" htmlUrl="https://www.youtube.com/channel/UCS3nuaXXw7nsiSzdJ5HJaoQ"/>
+			<outline type="rss" text="TVBS NEWS" title="TVBS NEWS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5nwNW4KdC0SzrhF9BXEYOQ" htmlUrl="https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ"/>
+			<outline type="rss" text="芒果TV青春剧场 MGTV Drama (uploads) on YouTube" title="芒果TV青春剧场 MGTV Drama (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUTulSfEm1c14WWRbSN-CNAQ" htmlUrl="https://youtube.com/playlist?list=UUTulSfEm1c14WWRbSN-CNAQ"/>
+			<outline type="rss" text="壹週刊 NEXT" title="壹週刊 NEXT" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8CVMKt5Zlju_i07zhkC-Q" htmlUrl="https://www.youtube.com/channel/UC-8CVMKt5Zlju_i07zhkC-Q"/>
+			<outline type="rss" text="央视新闻 news" title="央视新闻 news" xmlUrl="https://rsshub.app/cctv/news" htmlUrl="http://news.cctv.com/news"/></outline>
+	</body>
+</opml>

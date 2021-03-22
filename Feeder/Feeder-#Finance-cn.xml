@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>William subscriptions in feedly Cloud</title>
+	</head>
+	<body>
+		<outline text="#News - 中文" title="#News - 中文"/>
+		<outline text="#Finance - 中文" title="#Finance - 中文">
+			<outline type="rss" text="The Merkle News" title="The Merkle News" xmlUrl="http://themerkle.com/feed/" htmlUrl="https://themerkle.com"/>
+			<outline type="rss" text="財經知識庫－部落格" title="財經知識庫－部落格" xmlUrl="http://www.funddj.com/y/fundblog/rss.aspx" htmlUrl="https://www.moneydj.com/kmdj/blog/bloghome.aspx"/>
+			<outline type="rss" text="The Latest" title="The Latest" xmlUrl="http://www.paymentssource.com/rss/emerging_payments.xml" htmlUrl="https://www.paymentssource.com/feed"/>
+			<outline type="rss" text="Bank Automation News" title="Bank Automation News" xmlUrl="http://bankinnovation.net/feed/" htmlUrl="https://bankautomationnews.com"/>
+			<outline type="rss" text="News – Claims Journal" title="News – Claims Journal" xmlUrl="http://www.claimsjournal.com/rss/news/" htmlUrl="https://www.claimsjournal.com"/>
+			<outline type="rss" text="99 Bitcoins" title="99 Bitcoins" xmlUrl="http://bitcoinexaminer.org/feed/" htmlUrl="https://99bitcoins.com"/>
+			<outline type="rss" text="投資客日誌" title="投資客日誌" xmlUrl="http://alberthungblog.blogspot.com/feeds/posts/default" htmlUrl="http://alberthungblog.blogspot.com/"/>
+			<outline type="rss" text="Accenture Banking Blog" title="Accenture Banking Blog" xmlUrl="http://bankingblog.accenture.com/feed/" htmlUrl="https://bankingblog.accenture.com"/>
+			<outline type="rss" text="华尔街见闻" title="华尔街见闻" xmlUrl="https://dedicated.wallstreetcn.com/rss.xml" htmlUrl="https://wallstreetcn.com"/>
+			<outline type="rss" text="Faisal Khan" title="Faisal Khan" xmlUrl="http://www.faisalkhan.com/feed/" htmlUrl="https://faisalkhan.com"/>
+			<outline type="rss" text="News – Insurance Journal" title="News – Insurance Journal" xmlUrl="http://www.insurancejournal.com/newsfeed/news.rss" htmlUrl="https://www.insurancejournal.com"/>
+			<outline type="rss" text="FinTech Futures -" title="FinTech Futures -" xmlUrl="http://www.bankingtech.com/feed/" htmlUrl="https://www.fintechfutures.com"/>
+			<outline type="rss" text="財經新聞 - Yahoo奇摩新聞" title="財經新聞 - Yahoo奇摩新聞" xmlUrl="http://tw.news.yahoo.com/rss/biz" htmlUrl="https://tw.news.yahoo.com/finance/"/>
+			<outline type="rss" text="CoinDesk" title="CoinDesk" xmlUrl="http://feeds.feedburner.com/CoinDesk" htmlUrl="https://www.coindesk.com"/>
+			<outline type="rss" text="Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides" title="Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides" xmlUrl="http://feeds.feedburner.com/BitcoinMagazine" htmlUrl="https://bitcoinmagazine.com"/>
+			<outline type="rss" text="The Financial Brand" title="The Financial Brand" xmlUrl="http://feeds.feedburner.com/thefinancialbrand" htmlUrl="https://thefinancialbrand.com"/>
+			<outline type="rss" text="Fintech – VentureBeat" title="Fintech – VentureBeat" xmlUrl="http://venturebeat.com/tag/fintech/feed/" htmlUrl="https://venturebeat.com"/>
+			<outline type="rss" text="集思录" title="集思录" xmlUrl="https://www.jisilu.cn/feed/" htmlUrl="https://www.jisilu.cn"/>
+			<outline type="rss" text="Gregg Schoenberg – TechCrunch" title="Gregg Schoenberg – TechCrunch" xmlUrl="https://techcrunch.com/author/gregg-schoenberg-2/feed/" htmlUrl="https://techcrunch.com"/>
+			<outline type="rss" text="巴菲特班 洪瑞泰 (Michael On)" title="巴菲特班 洪瑞泰 (Michael On)" xmlUrl="http://mikeon88.blogspot.com/feeds/posts/default" htmlUrl="http://mikeon88.blogspot.com/"/>
+			<outline type="rss" text="今日话题 - 雪球" title="今日话题 - 雪球" xmlUrl="http://xueqiu.com/hots/topic/rss" htmlUrl="http://xueqiu.com/hots/topic"/>
+			<outline type="rss" text="Bitcoin - The Currency of the Internet" title="Bitcoin - The Currency of the Internet" xmlUrl="http://www.reddit.com/r/Bitcoin/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin/"/>
+			<outline type="rss" text="Insurance Age" title="Insurance Age" xmlUrl="http://www.insuranceage.co.uk/feeds/rss" htmlUrl="http://www.insuranceage.co.uk/feeds/rss"/>
+			<outline type="rss" text="FT中文网_英国《金融时报》(Financial Times)" title="FT中文网_英国《金融时报》(Financial Times)" xmlUrl="http://www.ftchinese.com/sc/rss_r.jsp" htmlUrl="http://www.ftchinese.com/"/>
+			<outline type="rss" text="Financial Technology" title="Financial Technology" xmlUrl="http://www.forbes.com/sites/tomgroenfeldt/feed/" htmlUrl="https://www.forbes.com/sites/tomgroenfeldt/"/>
+			<outline type="rss" text="InsureBlog" title="InsureBlog" xmlUrl="http://insureblog.blogspot.com/feeds/posts/default" htmlUrl="http://insureblog.blogspot.com/"/>
+			<outline type="rss" text="Finovate" title="Finovate" xmlUrl="http://feeds.feedburner.com/finovate" htmlUrl="https://finovate.com"/>
+			<outline type="rss" text="Bitcoinist" title="Bitcoinist" xmlUrl="http://bitcoinist.net/feed/" htmlUrl="https://bitcoinist.com"/>
+			<outline type="rss" text="Fintech – TechCrunch" title="Fintech – TechCrunch" xmlUrl="http://techcrunch.com/tag/fintech/feed/" htmlUrl="https://techcrunch.com"/>
+			<outline type="rss" text="CryptoCurrency – Finance Magnates" title="CryptoCurrency – Finance Magnates" xmlUrl="http://www.financemagnates.com/cryptocurrency/feed/" htmlUrl="https://www.financemagnates.com"/>
+			<outline type="rss" text="Latest Media" title="Latest Media" xmlUrl="http://www.mobilepaymentstoday.com/RSS/rss.php" htmlUrl="https://www.mobilepaymentstoday.com/rss/"/>
+			<outline type="rss" text="經濟日報" title="經濟日報" xmlUrl="http://money.udn.com/rssfeed/news/1001/5591/5612?ch=money" htmlUrl="https://money.udn.com"/>
+			<outline type="rss" text="Fintech Finance" title="Fintech Finance" xmlUrl="http://www.fintech.finance/feed/" htmlUrl="https://www.fintechf.com"/>
+			<outline type="rss" text="FinTech Ranking" title="FinTech Ranking" xmlUrl="http://fintechranking.com/feed/" htmlUrl="https://fintechranking.com"/>
+			<outline type="rss" text="The Latest" title="The Latest" xmlUrl="http://www.americanbanker.com/resources/technology.xml" htmlUrl="https://www.americanbanker.com/feed"/>
+			<outline type="rss" text="Insurance Business" title="Insurance Business" xmlUrl="http://www.ibamag.com/rss/" htmlUrl="https://www.insurancebusinessmag.com/us/"/>
+			<outline type="rss" text="The Fintech Times" title="The Fintech Times" xmlUrl="http://thefintechtimes.com/feed/" htmlUrl="https://thefintechtimes.com"/>
+			<outline type="rss" text="工商時報" title="工商時報" xmlUrl="https://ctee.com.tw/feed" htmlUrl="https://ctee.com.tw"/>
+			<outline type="rss" text="Noyes Payments Blog" title="Noyes Payments Blog" xmlUrl="http://blog.starpointllp.com/blog/?feed=rss2" htmlUrl="https://blog.starpointllp.com"/>
+			<outline type="rss" text="The Coinbase " title="The Coinbase " xmlUrl="http://blog.coinbase.com/rss" htmlUrl="https://blog.coinbase.com?source=rss----c114225aeaf7---4"/>
+			<outline type="rss" text="Insurance News &amp; Analysis RSS Feed | A.M. Best Company" title="Insurance News &amp; Analysis RSS Feed | A.M. Best Company" xmlUrl="http://www3.ambest.com/ambv/bestwirefeed/" htmlUrl="http://www.ambest.com/ambv/bestnews/Default.aspx"/>
+			<outline type="rss" text="Cointelegraph" title="Cointelegraph" xmlUrl="http://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com"/>
+			<outline type="rss" text="热帖 - 雪球" title="热帖 - 雪球" xmlUrl="https://rsshub.app/xueqiu/hots" htmlUrl="https://xueqiu.com/"/>
+			<outline type="rss" text="Crypto new media" title="Crypto new media" xmlUrl="http://feeds.feedburner.com/BitcoinIndependentNewsAndBlog" htmlUrl="https://cryptonewmedia.press"/>
+			<outline type="rss" text="Risk &amp; Insurance" title="Risk &amp; Insurance" xmlUrl="http://www.riskandinsurance.com/feed/" htmlUrl="https://riskandinsurance.com"/>
+			<outline type="rss" text="InsuranceNewsNet" title="InsuranceNewsNet" xmlUrl="http://insurancenewsnet.com/rss.aspx?id=lifehealth&amp;tab=todayspicks" htmlUrl="https://www.insurancenewsnet.com"/>
+			<outline type="rss" text="PYMNTS.com" title="PYMNTS.com" xmlUrl="http://www.pymnts.com/feed/" htmlUrl="https://www.pymnts.com"/>
+			<outline type="rss" text="Daily Fintech" title="Daily Fintech" xmlUrl="http://bernardlunn.com/feed/" htmlUrl="https://dailyfintech.com"/>
+			<outline type="rss" text="Chris Skinner's blog" title="Chris Skinner's blog" xmlUrl="http://thefinanser.com/feed/" htmlUrl="https://thefinanser.com"/>
+			<outline type="rss" text="ReinsuranceNe.ws" title="ReinsuranceNe.ws" xmlUrl="https://www.reinsurancene.ws/feed/" htmlUrl="https://www.reinsurancene.ws"/>
+			<outline type="rss" text="News – PYMNTS.com" title="News – PYMNTS.com" xmlUrl="http://www.pymnts.com/news/rss" htmlUrl="https://www.pymnts.com"/></outline>
+		<outline text="#Videos - 中文" title="#Videos - 中文"/>
+	</body>
+</opml>
