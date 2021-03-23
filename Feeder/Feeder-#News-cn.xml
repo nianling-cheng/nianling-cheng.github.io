@@ -1,26 +1,3 @@
-		if (BaseActivity_Start.gStrRssCurrentCategoryItem == "LATEST_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-LATEST_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "TOP_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-TOP_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "VIDEO_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-VIDEO_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "WORLD_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-WORLD_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "POLITICAL_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-POLITICAL_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "MONEY_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-MONEY_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "SCIENCE_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-SCIENCE_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "TECHNOLOGY_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-TECHNOLOGY_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "ENTERTAINMENT_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-ENTERTAINMENT_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "SPORT_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-SPORT_NEWS.xml";
-		else if (BaseActivity_Start.gStrRssCurrentCategoryItem == "OTHER_NEWS")
-			url = "https://nianling-cheng.github.io/Feeder-OTHER_NEWS.xml";
-
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 	<head>
