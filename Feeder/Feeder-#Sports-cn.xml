@@ -7,54 +7,20 @@
     <body>
         <outline text="#Sports - 中文" title="#Sports - 中文">
             <outline type="rss" text="虎扑篮球新闻" title="虎扑篮球新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_nba.xml"/>
-            <outline type="rss" text="極力誌" title="極力誌" xmlUrl="http://clutch.hk/feed/" htmlUrl="https://clutch.hk"/>
-            <outline type="rss" text="運動星球 sportsplanetmag" title="運動星球 sportsplanetmag" xmlUrl="https://www.sportsplanetmag.com/rss" htmlUrl="https://www.sportsplanetmag.com/"/>
-            <outline type="rss" text="爱燃烧" title="爱燃烧" xmlUrl="http://iranshao.com/feed/" htmlUrl="http://iranshao.com"/>
             <outline type="rss" text="rthk.hk - 即時新聞: 體育" title="rthk.hk - 即時新聞: 體育" xmlUrl="http://rthk.hk/rthk/news/rss/c_expressnews_csport.xml" htmlUrl="https://news.rthk.hk"/>
-            <outline type="rss" text="rthk.hk - 即時新聞: 國際" title="rthk.hk - 即時新聞: 國際" xmlUrl="http://rthk.hk/rthk/news/rss/c_expressnews_cinternational.xml" htmlUrl="https://news.rthk.hk"/>
             <outline type="rss" text="明報新聞網-即時新聞 RSS 體育" title="明報新聞網-即時新聞 RSS 體育" xmlUrl="http://news.mingpao.com/rss/ins/s00006.xml" htmlUrl="https://news.mingpao.com/"/>
-            <outline type="rss" text="我說(isay) – 林書豪(Jeremy Lin)豪迷專區" title="我說(isay) – 林書豪(Jeremy Lin)豪迷專區" xmlUrl="http://www.isay.tw/feed/" htmlUrl="https://www.isay.tw"/>
             <outline type="rss" text="趣头条" title="趣头条" xmlUrl="https://rsshub.app/qutoutiao/category/1" htmlUrl="http://home.qutoutiao.net"/>
             <outline type="rss" text="NBA - news" title="NBA - news" xmlUrl="https://rsshub.app/nba/app_news" htmlUrl="https://kbsapp.sports.qq.com"/>
             <outline type="rss" text="jinritan-半月谈" title="jinritan-半月谈" xmlUrl="https://rsshub.app/banyuetan/jinritan" htmlUrl="http://www.banyuetan.org/byt/jinritan/index.html"/>
             <outline type="rss" text="運動視界 Sports Vision" title="運動視界 Sports Vision" xmlUrl="http://www.sportsv.net/baseball/feed" htmlUrl="https://www.sportsv.net"/>
-            <outline type="rss" text="聯合新聞網：觸動未來 新識力" title="聯合新聞網：觸動未來 新識力" xmlUrl="https://udn.com/rssfeed/news/2/7227/6999?ch=news" htmlUrl="https://udn.com"/>
-            <outline type="rss" text="阿舟物理治療小教室" title="阿舟物理治療小教室" xmlUrl="https://jhouphysionews.com/feed/" htmlUrl="https://jhouphysionews.com"/>
-            <outline type="rss" text="虎扑赛车新闻" title="虎扑赛车新闻" xmlUrl="http://f1.hupu.com/news.xml"/>
-            <outline type="rss" text="娛樂新聞 - 自由時報" title="娛樂新聞 - 自由時報" xmlUrl="http://news.ltn.com.tw/rss/entertainment.xml" htmlUrl="https://news.ltn.com.tw/list/breakingnews/entertainment"/>
-            <outline type="rss" text="籃球專欄 @ 運動邦 痞客邦" title="籃球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/basketball"/>
-            <outline type="rss" text="SportsPro Media - Latest News" title="SportsPro Media - Latest News" xmlUrl="http://feeds.feedburner.com/SportsProDailyDeal" htmlUrl="http://www.sportspromedia.com/"/>
             <outline type="rss" text="ETtoday 運動新聞" title="ETtoday 運動新聞" xmlUrl="http://feeds.feedburner.com/ettoday/sport" htmlUrl="https://www.ettoday.net"/>
-            <outline type="rss" text="Sports Techie" title="Sports Techie" xmlUrl="http://sportstechie.net/feed/" htmlUrl="https://sportstechie.net"/>
             <outline type="rss" text="虎扑中超新闻" title="虎扑中超新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_china.xml"/>
-            <outline type="rss" text="DONGTW 動網" title="DONGTW 動網" xmlUrl="http://www.dongtw.com/feed" htmlUrl="https://www.dongtw.com"/>
-            <outline type="rss" text="棒球專欄 @ 運動邦 痞客邦" title="棒球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/baseball"/>
-            <outline type="rss" text="百度搜索风云榜-实时热点" title="百度搜索风云榜-实时热点" xmlUrl="https://rsshub.app/baidu/topwords/1" htmlUrl="https://docs.rsshub.app"/>
-            <outline type="rss" text="Sports Geek" title="Sports Geek" xmlUrl="http://feeds.feedburner.com/SportsGeek" htmlUrl="https://sportsgeekhq.com"/>
-            <outline type="rss" text="Sports - Bizjournals" title="Sports - Bizjournals" xmlUrl="http://feeds.bizjournals.com/industry_11" htmlUrl="https://www.bizjournals.com"/>
-            <outline type="rss" text="Peeta Fitness 健身網" title="Peeta Fitness 健身網" xmlUrl="https://www.peeta.tw/feed/" htmlUrl="https://www.peeta.tw"/>
-            <outline type="rss" text="Mobile01 運動 - 慢跑最新文章" title="Mobile01 運動 - 慢跑最新文章" xmlUrl="http://www.mobile01.com/rss/topiclist558.xml" htmlUrl="https://www.mobile01.com/topiclist.php?f=558"/>
-            <outline type="rss" text="體育新聞 - 自由時報" title="體育新聞 - 自由時報" xmlUrl="http://news.ltn.com.tw/rss/sports.xml" htmlUrl="https://news.ltn.com.tw/list/breakingnews/sports"/>
             <outline type="rss" text="明報新聞網-每日明報 RSS 教育" title="明報新聞網-每日明報 RSS 教育" xmlUrl="http://news.mingpao.com/rss/pns/s00011.xml" htmlUrl="https://news.mingpao.com/"/>
-            <outline type="rss" text="運動內幕報導" title="運動內幕報導" xmlUrl="http://insidesports.tw/?feed=rss2" htmlUrl="http://insidesports.tw"/>
-            <outline type="rss" text="香港電台：視像新聞" title="香港電台：視像新聞" xmlUrl="http://podcast.rthk.hk/podcast/videonews_i.xml" htmlUrl="http://podcast.rthk.org.hk/podcast/item.php?pid=113"/>
-            <outline type="rss" text="體路 Sportsroad" title="體路 Sportsroad" xmlUrl="http://sportsroad.hk/feed" htmlUrl="https://www.sportsroad.hk"/>
-            <outline type="rss" text="The Sports Economist" title="The Sports Economist" xmlUrl="http://thesportseconomist.com/feed/" htmlUrl="https://thesportseconomist.com"/>
-            <outline type="rss" text="Sports Marketing &amp; PR Roundup" title="Sports Marketing &amp; PR Roundup" xmlUrl="http://joefavorito.com/feed/" htmlUrl="http://joefavorito.com"/>
-            <outline type="rss" text="rthk.hk - 即時新聞: 大中華" title="rthk.hk - 即時新聞: 大中華" xmlUrl="http://rthk.hk/rthk/news/rss/c_expressnews_greaterchina.xml" htmlUrl="https://news.rthk.hk"/>
-            <outline type="rss" text="足球專欄 @ 運動邦 痞客邦" title="足球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/football"/>
-            <outline type="rss" text="Football News, Live Scores, Results &amp; Transfers | Goal.com" title="Football News, Live Scores, Results &amp; Transfers | Goal.com" xmlUrl="http://www.goal.com/hk/feeds/news?fmt=rss" htmlUrl="http://www.goal.com"/>
-            <outline type="rss" text="Front Office Sports" title="Front Office Sports" xmlUrl="https://frntofficesport.com/feed" htmlUrl="https://frontofficesports.com"/>
-            <outline type="rss" text="Mobile01 運動 - 游泳最新文章" title="Mobile01 運動 - 游泳最新文章" xmlUrl="http://www.mobile01.com/rss/topiclist647.xml" htmlUrl="https://www.mobile01.com/topiclist.php?f=647"/>
-            <outline type="rss" text="黑特籃球-NBA新聞影音圖片分享社區" title="黑特籃球-NBA新聞影音圖片分享社區" xmlUrl="http://www.ballgametime.com/feed" htmlUrl="http://www.ballgametime.com"/>
-            <outline type="rss" text="SPORTS AGENT BLOG" title="SPORTS AGENT BLOG" xmlUrl="http://www.sportsagentblog.com/feed/" htmlUrl="http://sportsagentblog.com"/>
-            <outline type="rss" text="Forbes - SportsMoney" title="Forbes - SportsMoney" xmlUrl="http://www.forbes.com/sportsmoney/index.xml" htmlUrl="https://www.forbes.com/sportsmoney/"/>
-            <outline type="rss" text="體育新聞 - Yahoo 新聞" title="體育新聞 - Yahoo 新聞" xmlUrl="http://hk.news.yahoo.com/rss/sports/rss.xml" htmlUrl="https://hk.news.yahoo.com/sports/"/>
-            <outline type="rss" text="Digital Sport" title="Digital Sport" xmlUrl="http://www.theuksportsnetwork.com/feed" htmlUrl="https://digitalsport.co"/>
-            <outline type="rss" text="明報新聞網-即時新聞 RSS 文摘" title="明報新聞網-即時新聞 RSS 文摘" xmlUrl="http://news.mingpao.com/rss/ins/s00022.xml" htmlUrl="https://news.mingpao.com/"/>
-            <outline type="rss" text="籃球專欄 » NBA專欄 @ 運動邦 痞客邦" title="籃球專欄 » NBA專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/basketball/column/NBAcolumn"/>
             <outline type="rss" text="虎扑足球新闻" title="虎扑足球新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_soccer.xml"/>
-            <outline type="rss" text="Mobile01 運動 - 運動綜合最新文章" title="Mobile01 運動 - 運動綜合最新文章" xmlUrl="http://www.mobile01.com/rss/topiclist293.xml" htmlUrl="https://www.mobile01.com/topiclist.php?f=293"/>
+            <outline type="rss" text="籃球專欄 » NBA專欄 @ 運動邦 痞客邦" title="籃球專欄 » NBA專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/basketball/column/NBAcolumn"/>
+            <outline type="rss" text="籃球專欄 @ 運動邦 痞客邦" title="籃球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/basketball"/>
+            <outline type="rss" text="棒球專欄 @ 運動邦 痞客邦" title="棒球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/baseball"/>
+            <outline type="rss" text="足球專欄 @ 運動邦 痞客邦" title="足球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/football"/>
         </outline>
     </body>
 </opml>
