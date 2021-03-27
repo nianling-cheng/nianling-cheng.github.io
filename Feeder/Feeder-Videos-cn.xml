@@ -4,8 +4,6 @@
 		<title>William subscriptions in feedly Cloud</title>
 	</head>
 	<body>
-		<outline text="#Politics - 中文" title="#Politics - 中文"/>
-		<outline text="#News - 中文" title="#News - 中文"/>
 		<outline text="#Videos - 中文" title="#Videos - 中文">
 			<outline type="rss" text="台灣啟示錄" title="台灣啟示錄" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqdR2j_W3QRyw5nc-0Ku-0A" htmlUrl="https://www.youtube.com/channel/UCqdR2j_W3QRyw5nc-0Ku-0A"/>
 			<outline type="rss" text="國家地理 National Geographic" title="國家地理 National Geographic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzuH3UncFcXOKrz4XOYARTw" htmlUrl="https://www.youtube.com/channel/UCzuH3UncFcXOKrz4XOYARTw"/>
