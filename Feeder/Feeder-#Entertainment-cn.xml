@@ -7,58 +7,25 @@
     <body>
         <outline text="#Entertainment - 中文" title="#Entertainment - 中文">
             <outline type="rss" text="韓星網 - KoreaStarDaily" title="韓星網 - KoreaStarDaily" xmlUrl="http://feed.koreastardaily.com/tc" htmlUrl="http://feed.koreastardaily.com/tc"/>
-            <outline type="rss" text="天涯" title="天涯" xmlUrl="http://www.tianya.cn/rss/" htmlUrl="http://bbs.tianya.cn"/>
-            <outline type="rss" text="华声论坛 - 搞笑图库" title="华声论坛 - 搞笑图库" xmlUrl="http://bbs.hnol.net/rss.asp?boardid=83" htmlUrl="http://bbs.voc.com.cn/forum-83-1.html"/>
             <outline type="rss" text="豆瓣最受欢迎的影评" title="豆瓣最受欢迎的影评" xmlUrl="http://www.douban.com/feed/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/"/>
             <outline type="rss" text="藍色電影夢" title="藍色電影夢" xmlUrl="http://4bluestones.biz/mtblog/atom.xml" htmlUrl="http://4bluestones.biz/mtblog/"/>
             <outline type="rss" text="個人意見" title="個人意見" xmlUrl="http://mbpo.blogspot.com/feeds/posts/default" htmlUrl="http://mbpo.blogspot.com/"/>
-            <outline type="rss" text="Advanced Television" title="Advanced Television" xmlUrl="http://feeds.feedburner.com/AdvancedTelevision" htmlUrl="https://advanced-television.com"/>
-            <outline type="rss" text="What’s New in Publishing | Digital Publishing News" title="What’s New in Publishing | Digital Publishing News" xmlUrl="http://www.whatsnewinpublishing.co.uk/rss.xml" htmlUrl="https://whatsnewinpublishing.com"/>
             <outline type="rss" text="青年图摘 - 每天十分钟，开心一整天。" title="青年图摘 - 每天十分钟，开心一整天。" xmlUrl="http://www.qingniantuzhai.com/feed" htmlUrl="https://qingniantuzhai.com/"/>
             <outline type="rss" text="AV No.1 Blog" title="AV No.1 Blog" xmlUrl="http://feeds.feedburner.com/avnoone" htmlUrl="http://www.playno1.com/portal.php?mod=list&amp;catid=1"/>
-            <outline type="rss" text="韩饭网" title="韩饭网" xmlUrl="http://www.hanfan.cc/feed" htmlUrl="https://www.hanfan.cc"/>
-            <outline type="rss" text="Variety" title="Variety" xmlUrl="http://www.variety.com/rss.asp?categoryid=10" htmlUrl="http://variety.com"/>
-            <outline type="rss" text="B.C. &amp; Lowy" title="B.C. &amp; Lowy" xmlUrl="http://forgetfulbc.blogspot.com/feeds/posts/default" htmlUrl="http://forgetfulbc.blogspot.com/"/>
-            <outline type="rss" text="nScreenMedia" title="nScreenMedia" xmlUrl="http://www.nscreenmedia.com/feed/" htmlUrl="https://nscreenmedia.com"/>
-            <outline type="rss" text="华声论坛 - 美女贴图" title="华声论坛 - 美女贴图" xmlUrl="http://bbs.hnol.net/rss.asp?boardid=50" htmlUrl="http://bbs.voc.com.cn/forum-50-1.html"/>
-            <outline type="rss" text="NYT - Media " title="NYT - Media " xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml" htmlUrl="https://www.nytimes.com/section/business/media"/>
             <outline type="rss" text="mLook 看书，（精校电子书，提供精致的书籍和服务）" title="mLook 看书，（精校电子书，提供精致的书籍和服务）" xmlUrl="http://www.mlook.mobi/feed/books" htmlUrl="https://www.mlook.mobi"/>
             <outline type="rss" text="Cinephilia" title="Cinephilia" xmlUrl="http://cinephilia.net/feed" htmlUrl="https://cinephilia.net"/>
             <outline type="rss" text="自拍偷拍,A片,艳照门,H动漫下载, 记得收藏本站哦~" title="自拍偷拍,A片,艳照门,H动漫下载, 记得收藏本站哦~" xmlUrl="http://m8008.com/?feed=rss2" htmlUrl="http://m8008.com"/>
             <outline type="rss" text="和邪社" title="和邪社" xmlUrl="http://www.hexieshe.com/feed" htmlUrl="https://www.hexieshe.com"/>
-            <outline type="rss" text="Monday Note" title="Monday Note" xmlUrl="http://www.mondaynote.com/feed/" htmlUrl="https://mondaynote.com?source=rss----c537d80ed0a---4"/>
-            <outline type="rss" text="左撇子的電影博物館 :: 痞客邦 PIXNET ::" title="左撇子的電影博物館 :: 痞客邦 PIXNET ::" xmlUrl="http://feed.pixnet.net/blog/posts/rss/mike0123783" htmlUrl="http://mike0123783.pixnet.net/blog"/>
-            <outline type="rss" text="Nieman Lab" title="Nieman Lab" xmlUrl="http://www.niemanlab.org/feed/" htmlUrl="https://www.niemanlab.org"/>
-            <outline type="rss" text="Videonet" title="Videonet" xmlUrl="http://www.v-net.tv/feed/" htmlUrl="https://www.v-net.tv"/>
-            <outline type="rss" text="影像日报" title="影像日报" xmlUrl="http://moviesoon.com/news/feed/" htmlUrl="http://moviesoon.com/news"/>
             <outline type="rss" text="H No.1 Blog" title="H No.1 Blog" xmlUrl="http://feeds.feedburner.com/hnoone" htmlUrl="http://www.playno1.com/portal.php?mod=list&amp;catid=2"/>
             <outline type="rss" text="免費A片及AV影片" title="免費A片及AV影片" xmlUrl="http://www.avseesee.com/rss/" htmlUrl="https://www.avseesee.com"/>
             <outline type="rss" text="糗事百科" title="糗事百科" xmlUrl="http://feed.qiushibaike.com/rss" htmlUrl="http://www.qiushibaike.com/"/>
             <outline type="rss" text="大人物" title="大人物" xmlUrl="http://feeds.feedburner.com/cool3c-daman" htmlUrl="https://www.damanwoo.com/daman/rss"/>
-            <outline type="rss" text="豆瓣最受欢迎的影评 [expanded by feedex.net]" title="豆瓣最受欢迎的影评 [expanded by feedex.net]" xmlUrl="http://feedex.net/feed/movie.douban.com/feed/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/"/>
-            <outline type="rss" text="Media – Digiday" title="Media – Digiday" xmlUrl="https://digiday.com/category/media/feed/" htmlUrl="https://digiday.com"/>
             <outline type="rss" text="水木社区 Joke/笑话连篇 保留区" title="水木社区 Joke/笑话连篇 保留区" xmlUrl="http://www.newsmth.net/rss.php?mJoke" htmlUrl="http://www.newsmth.net/frames.html?mainurl=bbsdoc.php%3Fboard%3DJoke"/>
-            <outline type="rss" text="FierceVideo" title="FierceVideo" xmlUrl="http://www.fiercecable.com/rss/xml" htmlUrl="https://www.fiercevideo.com/"/>
-            <outline type="rss" text="Poynter" title="Poynter" xmlUrl="http://www.poynter.org/feed/" htmlUrl="https://www.poynter.org"/>
-            <outline type="rss" text="Press Gazette" title="Press Gazette" xmlUrl="http://www.pressgazette.co.uk/rssfeed.xml" htmlUrl="https://www.pressgazette.co.uk"/>
-            <outline type="rss" text="博海拾贝 – 博海拾贝" title="博海拾贝 – 博海拾贝" xmlUrl="http://bohaishibei.com/post/category/main/feed/" htmlUrl="https://bh.sb"/>
             <outline type="rss" text="美剧极客" title="美剧极客" xmlUrl="http://www.tvjike.com/feed" htmlUrl="https://www.tvjike.com"/>
             <outline type="rss" text="米國米Pin Chia: Bilingual Movie &amp; TV Review" title="米國米Pin Chia: Bilingual Movie &amp; TV Review" xmlUrl="https://jjpin.wordpress.com/feed/" htmlUrl="https://pinfilmreview.com"/>
-            <outline type="rss" text="水木社区 WorkLife/职业生涯 保留区" title="水木社区 WorkLife/职业生涯 保留区" xmlUrl="http://www.newsmth.org/rss.php?mWorkLife" htmlUrl="http://www.newsmth.net/frames.html?mainurl=bbsdoc.php%3Fboard%3DWorkLife"/>
             <outline type="rss" text="Punchline 娛樂重擊" title="Punchline 娛樂重擊" xmlUrl="http://punchline.asia/?feed=rss2" htmlUrl="https://punchline.asia"/>
-            <outline type="rss" text="韓娛最前線" title="韓娛最前線" xmlUrl="http://kpopn.com/feed/" htmlUrl="https://www.kpopn.com"/>
-            <outline type="rss" text="放映週報 - 本期文章" title="放映週報 - 本期文章" xmlUrl="http://www.funscreen.com.tw/rss.asp" htmlUrl="http://www.funscreen.com.tw/"/>
-            <outline type="rss" text="拍手Clappin" title="拍手Clappin" xmlUrl="https://clappin.blog/feed/" htmlUrl="https://clappin.blog"/>
             <outline type="rss" text="豆瓣最受欢迎的书评" title="豆瓣最受欢迎的书评" xmlUrl="http://www.douban.com/feed/review/book" htmlUrl="https://book.douban.com/review/book_best/"/>
-            <outline type="rss" text="osaki's Blog :: 隨意窩 Xuite ::" title="osaki's Blog :: 隨意窩 Xuite ::" xmlUrl="http://blog.xuite.net/osaki99/blog/rss.xml" htmlUrl="http://blog.xuite.net/osaki99/blog"/>
-            <outline type="rss" text="美剧美剧 – Mtime时光网" title="美剧美剧 – Mtime时光网" xmlUrl="http://feed.mtime.com/group/ustvseries/topic.rss" htmlUrl="http://group.mtime.com/ustvseries/"/>
-            <outline type="rss" text="Media – TechCrunch" title="Media – TechCrunch" xmlUrl="https://techcrunch.com/media-2/feed/" htmlUrl="https://techcrunch.com"/>
             <outline type="rss" text="PTT爆笑搞笑漫畫趣圖" title="PTT爆笑搞笑漫畫趣圖" xmlUrl="http://www.pttjoke.com/feeds/posts/default" htmlUrl="https://www.pttjoke.com/"/>
-            <outline type="rss" text="Columbia Journalism Review" title="Columbia Journalism Review" xmlUrl="http://www.cjr.org/index.xml" htmlUrl="https://www.cjr.org"/>
-            <outline type="rss" text="Digital media | The Guardian" title="Digital media | The Guardian" xmlUrl="http://www.guardian.co.uk/media/digital-media/rss" htmlUrl="https://www.theguardian.com/media/digital-media"/>
-            <outline type="rss" text="JPbeta 多元化日本文化资讯站" title="JPbeta 多元化日本文化资讯站" xmlUrl="http://www.jpbeta.net/feed/" htmlUrl="https://www.jpbeta.cc"/>
-            <outline type="rss" text="Media Play News" title="Media Play News" xmlUrl="https://www.mediaplaynews.com/feed/" htmlUrl="https://www.mediaplaynews.com"/>
-            <outline type="rss" text="翻譯: Tony Tsou" title="翻譯: Tony Tsou" xmlUrl="http://translatedbytonytsou.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://translatedbytonytsou.blogspot.com/"/>
         </outline>
     </body>
 </opml>
