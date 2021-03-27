@@ -6,7 +6,7 @@
     </head>
     <body>
         <outline text="#Sports - 中文" title="#Sports - 中文">
-            <outline type="rss" text="虎扑篮球新闻" title="虎扑篮球新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_nba.xml"/>
+            <outline type="rss" text="虎扑篮球新闻" title="虎扑篮球新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_nba.xml" htmlUrl=""/>
             <outline type="rss" text="rthk.hk - 即時新聞: 體育" title="rthk.hk - 即時新聞: 體育" xmlUrl="http://rthk.hk/rthk/news/rss/c_expressnews_csport.xml" htmlUrl="https://news.rthk.hk"/>
             <outline type="rss" text="明報新聞網-即時新聞 RSS 體育" title="明報新聞網-即時新聞 RSS 體育" xmlUrl="http://news.mingpao.com/rss/ins/s00006.xml" htmlUrl="https://news.mingpao.com/"/>
             <outline type="rss" text="趣头条" title="趣头条" xmlUrl="https://rsshub.app/qutoutiao/category/1" htmlUrl="http://home.qutoutiao.net"/>
@@ -14,13 +14,13 @@
             <outline type="rss" text="jinritan-半月谈" title="jinritan-半月谈" xmlUrl="https://rsshub.app/banyuetan/jinritan" htmlUrl="http://www.banyuetan.org/byt/jinritan/index.html"/>
             <outline type="rss" text="運動視界 Sports Vision" title="運動視界 Sports Vision" xmlUrl="http://www.sportsv.net/baseball/feed" htmlUrl="https://www.sportsv.net"/>
             <outline type="rss" text="ETtoday 運動新聞" title="ETtoday 運動新聞" xmlUrl="http://feeds.feedburner.com/ettoday/sport" htmlUrl="https://www.ettoday.net"/>
-            <outline type="rss" text="虎扑中超新闻" title="虎扑中超新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_china.xml"/>
+            <outline type="rss" text="虎扑中超新闻" title="虎扑中超新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_china.xml" htmlUrl=""/>
             <outline type="rss" text="明報新聞網-每日明報 RSS 教育" title="明報新聞網-每日明報 RSS 教育" xmlUrl="http://news.mingpao.com/rss/pns/s00011.xml" htmlUrl="https://news.mingpao.com/"/>
-            <outline type="rss" text="虎扑足球新闻" title="虎扑足球新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_soccer.xml"/>
-            <outline type="rss" text="籃球專欄 » NBA專欄 @ 運動邦 痞客邦" title="籃球專欄 » NBA專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/basketball/column/NBAcolumn"/>
-            <outline type="rss" text="籃球專欄 @ 運動邦 痞客邦" title="籃球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/basketball"/>
-            <outline type="rss" text="棒球專欄 @ 運動邦 痞客邦" title="棒球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/baseball"/>
-            <outline type="rss" text="足球專欄 @ 運動邦 痞客邦" title="足球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/football"/>
+            <outline type="rss" text="虎扑足球新闻" title="虎扑足球新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_soccer.xml" htmlUrl=""/>
+            <outline type="rss" text="籃球專欄 » NBA專欄 @ 運動邦 痞客邦" title="籃球專欄 » NBA專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/basketball/column/NBAcolumn" htmlUrl=""/>
+            <outline type="rss" text="籃球專欄 @ 運動邦 痞客邦" title="籃球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/basketball" htmlUrl=""/>
+            <outline type="rss" text="棒球專欄 @ 運動邦 痞客邦" title="棒球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/baseball" htmlUrl=""/>
+            <outline type="rss" text="足球專欄 @ 運動邦 痞客邦" title="足球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/football" htmlUrl=""/>
         </outline>
     </body>
 </opml>
