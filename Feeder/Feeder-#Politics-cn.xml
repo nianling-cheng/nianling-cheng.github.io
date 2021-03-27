@@ -6,19 +6,11 @@
 	<body>
 		<outline text="#Politics - 中文" title="#Politics - 中文">
 			<outline type="rss" text="▣参考消息 | 中国数字时代" title="▣参考消息 | 中国数字时代" xmlUrl="http://feeds.feedburner.com/chinadigitaltimes/zKps" htmlUrl="https://chinadigitaltimes.net/chinese"/>
-			<outline type="rss" text="港文集" title="港文集" xmlUrl="http://feeds.feedburner.com/hktext" htmlUrl="http://hktext.blogspot.com/"/>
-			<outline type="rss" text="本土新聞" title="本土新聞" xmlUrl="http://localpresshk.com/index.php/feed/" htmlUrl="https://www.localpresshk.com"/>
-			<outline type="rss" text="" title="" xmlUrl="http://www.inmediahk.net/full/feed" htmlUrl="https://www.inmediahk.net/frontpage/www.facebook.com/www.inmediahk.net/www.inmediahk.net/%E7%82%BA%E4%BD%95%E5%81%8F%E5%81%8F%E9%81%B8%E4%B8%AD%E6%88%91%EF%BC%9A%E8%95%89%E5%BE%91%E8%80%81%E5%9C%8D%E8%88%87%E9%AA%A8%E7%81%B0%E9%BE%95%E5%A0%B4%E6%8A%97%E7%88%AD%E8%A8%98"/>
 			<outline type="rss" text="不做历史的看客" title="不做历史的看客" xmlUrl="http://blog.tianya.cn/blogger/rss.asp?BlogID=1744596" htmlUrl="http://tieshuxin.blog.tianya.cn/"/>
-			<outline type="rss" text="美國之音" title="美國之音" xmlUrl="http://www.voacantonese.com/rss/?count=50" htmlUrl="https://www.voacantonese.com"/>
 			<outline type="rss" text="guavanthropology.tw 芭樂人類學" title="guavanthropology.tw 芭樂人類學" xmlUrl="http://guavanthropology.tw/feed" htmlUrl="https://guavanthropology.tw"/>
-			<outline type="rss" text="聚言時報 Polymer" title="聚言時報 Polymer" xmlUrl="http://polymer.hkgalden.net/feed/" htmlUrl="https://polymerhk.com"/>
 			<outline type="rss" text="Human Rights Watch News" title="Human Rights Watch News" xmlUrl="http://www.hrw.org/zh-hans/rss/news" htmlUrl="https://www.hrw.org/zh-hans"/>
-			<outline type="rss" text="國際新聞 - Yahoo奇摩新聞" title="國際新聞 - Yahoo奇摩新聞" xmlUrl="http://tw.news.yahoo.com/rss/intl" htmlUrl="https://tw.news.yahoo.com/world/"/>
 			<outline type="rss" text="一眼看天下 – 中華民國外交部國際新聞讀報站" title="一眼看天下 – 中華民國外交部國際新聞讀報站" xmlUrl="http://internationalnewsstation.tw/?event_area=both-coasts,asia-pacific,central-and-south-america,europe,united-states-and-canada,africa&amp;feed=rss2" htmlUrl="https://internationalnewsstation.tw"/>
 			<outline type="rss" text="政治新聞 - 自由時報" title="政治新聞 - 自由時報" xmlUrl="http://news.ltn.com.tw/rss/politics.xml" htmlUrl="https://news.ltn.com.tw/list/breakingnews/politics"/>
-			<outline type="rss" text="Mata Taiwan" title="Mata Taiwan" xmlUrl="http://www.pure-taiwan.info/feed" htmlUrl="https://www.matataiwan.com"/>
-			<outline type="rss" text="歐洲動態" title="歐洲動態" xmlUrl="http://europechinese.blogspot.com/feeds/posts/default" htmlUrl="http://europechinese.blogspot.com/"/>
 			<outline type="rss" text="法律白話文運動" title="法律白話文運動" xmlUrl="http://plainlaw.me/feed/" htmlUrl="https://plainlaw.me"/>
 			<outline type="rss" text="全球深度报道网" title="全球深度报道网" xmlUrl="http://cn.gijn.org/feed/" htmlUrl="https://cn.gijn.org"/>
 			<outline type="rss" text="✿真理部指令 | 中国数字时代" title="✿真理部指令 | 中国数字时代" xmlUrl="http://feeds.feedburner.com/chinadigitaltimes/odSQ" htmlUrl="https://chinadigitaltimes.net/chinese"/>
@@ -26,35 +18,13 @@
 			<outline type="rss" text="法广_头条新闻-RFI" title="法广_头条新闻-RFI" xmlUrl="http://cn.rfi.fr/general/rss/" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%B9%BF_%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB/rss"/>
 			<outline type="rss" text="Stories by 無神論者的巴別塔 on Medium" title="Stories by 無神論者的巴別塔 on Medium" xmlUrl="https://medium.com/feed/@henryporterbabe" htmlUrl="https://medium.com/@henryporterbabe?source=rss-9d3b0c1c8e4e------2"/>
 			<outline type="rss" text="新国志" title="新国志" xmlUrl="http://xinguozhi.wordpress.com/feed/" htmlUrl="https://xinguozhi.wordpress.com"/>
-			<outline type="rss" text="紐約時報中文網 國際縱覽" title="紐約時報中文網 國際縱覽" xmlUrl="http://cn.nytimes.com/rss/zh-hant/" htmlUrl="https://cn.nytimes.com"/>
 			<outline type="rss" text="「獨立評論@天下」最新文章" title="「獨立評論@天下」最新文章" xmlUrl="http://www.cw.com.tw/RSS/opinion.xml" htmlUrl="http://opinion.cw.com.tw"/>
 			<outline type="rss" text="端传媒 - 深度" title="端传媒 - 深度" xmlUrl="https://rsshub.app/initium/feature/zh-hans" htmlUrl="https://theinitium.com/channel/feature/"/>
-			<outline type="rss" text="法廣_頭條新聞-RFI" title="法廣_頭條新聞-RFI" xmlUrl="http://trad.cn.rfi.fr/general/rss" htmlUrl="http://trad.cn.rfi.fr/%E6%B3%95%E5%BB%A3_%E9%A0%AD%E6%A2%9D%E6%96%B0%E8%81%9E/rss"/>
 			<outline type="rss" text="菜市場政治學" title="菜市場政治學" xmlUrl="http://whogovernstw.org/feed/" htmlUrl="https://whogovernstw.org"/>
 			<outline type="rss" text="平行時空" title="平行時空" xmlUrl="http://www.ir-basilica.com/feed/" htmlUrl="http://www.ir-basilica.com"/>
-			<outline type="rss" text="南方周末-生活" title="南方周末-生活" xmlUrl="https://rsshub.app/infzm/5" htmlUrl="http://www.infzm.com/contents?term_id=5"/>
 			<outline type="rss" text="政见 CNPolitics.org" title="政见 CNPolitics.org" xmlUrl="http://cnpolitics.org/feed/" htmlUrl="http://cnpolitics.org"/>
 			<outline type="rss" text="想想論壇" title="想想論壇" xmlUrl="http://www.thinkingtaiwan.com/rss/new" htmlUrl="https://www.thinkingtaiwan.com/rss/new"/>
-			<outline type="rss" text="中国日报: 时政" title="中国日报: 时政" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.chinadaily.xml" htmlUrl="http://china.chinadaily.com.cn/5bd5639ca3101a87ca8ff636"/>
-			<outline type="rss" text="网络民议 | 中国数字时代" title="网络民议 | 中国数字时代" xmlUrl="http://feeds.feedburner.com/chinadigitaltimes/zcNw" htmlUrl="https://chinadigitaltimes.net/chinese"/>
-			<outline type="rss" text="jicengzhili-半月谈" title="jicengzhili-半月谈" xmlUrl="https://rsshub.app/banyuetan/jicengzhili" htmlUrl="http://www.banyuetan.org/byt/jicengzhili/index.html"/>
-			<outline type="rss" text="新·品葱" title="新·品葱" xmlUrl="https://pincong.rocks/feed/" htmlUrl="https://pincong.rocks/"/>
-			<outline type="rss" text="中国纤检-CNKI" title="中国纤检-CNKI" xmlUrl="http://rss.cnki.net/kns/rss.aspx?Journal=ZHXJ&amp;Virtual=knavi" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
-			<outline type="rss" text="中国特色。NET" title="中国特色。NET" xmlUrl="http://www.zhongguotese.net/feed" htmlUrl="https://www.zhongguotese.net"/>
-			<outline type="rss" text="熱門文章 - Matters" title="熱門文章 - Matters" xmlUrl="https://rsshub.app/matters/hot" htmlUrl="https://matters.news/"/>
-			<outline type="rss" text="轉角國際 udn Global | 文化視角" title="轉角國際 udn Global | 文化視角" xmlUrl="http://global.udn.com/rss/news/1020/8664" htmlUrl="https://global.udn.com"/>
-			<outline type="rss" text="中国数字时代" title="中国数字时代" xmlUrl="http://feeds.feedburner.com/chinadigitaltimes/IyPt" htmlUrl="https://chinadigitaltimes.net/chinese"/>
-			<outline type="rss" text="✿河蟹档案 | 中国数字时代" title="✿河蟹档案 | 中国数字时代" xmlUrl="http://feeds.feedburner.com/chinadigitaltimes/dDIn" htmlUrl="https://chinadigitaltimes.net/chinese"/>
-			<outline type="rss" text="香港獨立媒體網" title="香港獨立媒體網" xmlUrl="http://www.inmediahk.net/rss.xml" htmlUrl="https://www.inmediahk.net"/>
-			<outline type="rss" text="冷眼橫眉" title="冷眼橫眉" xmlUrl="http://botakray.blogspot.com/feeds/posts/default" htmlUrl="http://botakray.blogspot.com/"/>
-			<outline type="rss" text="右派网" title="右派网" xmlUrl="http://www.youpai.org/rss.php" htmlUrl="http://www.youpai.org/"/>
-			<outline type="rss" text="巷仔口社會學 Streetcorner Sociology" title="巷仔口社會學 Streetcorner Sociology" xmlUrl="http://twstreetcorner.org/feed/" htmlUrl="https://twstreetcorner.org"/>
-			<outline type="rss" text="端传媒 - 即时" title="端传媒 - 即时" xmlUrl="https://rsshub.app/initium/news-brief/zh-hans" htmlUrl="https://theinitium.com/channel/news-brief/"/>
 			<outline type="rss" text="南亞觀察" title="南亞觀察" xmlUrl="http://southasiawatch.tw/feed" htmlUrl="http://southasiawatch.tw"/>
-			<outline type="rss" text="政治新聞 - Yahoo奇摩新聞" title="政治新聞 - Yahoo奇摩新聞" xmlUrl="http://tw.news.yahoo.com/rss/politics" htmlUrl="https://tw.news.yahoo.com/politics/"/>
-			<outline type="rss" text="哲學新媒體" title="哲學新媒體" xmlUrl="http://www.philomedium.com/rss.xml" htmlUrl="https://philomedium.com"/>
-			<outline type="rss" text="台大意識報" title="台大意識報" xmlUrl="http://cpaper-blog.blogspot.com/feeds/posts/default" htmlUrl="http://cpaper-blog.blogspot.com/"/>
-			<outline type="rss" text="观察者网" title="观察者网" xmlUrl="http://feedmaker.kindle4rss.com/feeds/guancha.xml" htmlUrl="http://www.guancha.cn/mainnews-sp/"/>
 			<outline type="rss" text="越南最前線" title="越南最前線" xmlUrl="http://viet-loan.blogspot.com/feeds/posts/default" htmlUrl="http://viet-loan.blogspot.com/"/></outline>
 		<outline text="#News - 中文" title="#News - 中文"/>
 	</body>
