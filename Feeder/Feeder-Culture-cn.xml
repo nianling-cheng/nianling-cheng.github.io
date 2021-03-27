@@ -11,7 +11,7 @@
             <outline type="rss" text="上海书评" title="上海书评" xmlUrl="https://feedx.net/rss/shanghaishuping.xml" htmlUrl="http://thepaper.cn"/>
             <outline type="rss" text="guavanthropology.tw 芭樂人類學" title="guavanthropology.tw 芭樂人類學" xmlUrl="http://guavanthropology.tw/feed" htmlUrl="https://guavanthropology.tw"/>
             <outline type="rss" text="歷史學柑仔店" title="歷史學柑仔店" xmlUrl="https://kamatiam.org/feed/" htmlUrl="https://kamatiam.org"/>
-            <outline type="rss" text="Deutsche Welle: DW-WORLD.DE" title="Deutsche Welle: DW-WORLD.DE" xmlUrl="http://rss.dw.de/atom/rss-chi-all"/>
+            <outline type="rss" text="Deutsche Welle: DW-WORLD.DE" title="Deutsche Welle: DW-WORLD.DE" xmlUrl="http://rss.dw.de/atom/rss-chi-all" htmlUrl=""/>
             <outline type="rss" text="文化_界面新闻" title="文化_界面新闻" xmlUrl="https://rsshub.app/jiemian/list/130" htmlUrl="https://a.jiemian.com/index.php?m=lists&amp;a=ajaxNews&amp;cid=130&amp;page=1"/>
             <outline type="rss" text="槽边往事" title="槽边往事" xmlUrl="http://feeds.feedburner.com/caitou" htmlUrl="https://www.hecaitou.info/"/>
             <outline type="rss" text="法律白話文運動" title="法律白話文運動" xmlUrl="http://plainlaw.me/feed/" htmlUrl="https://plainlaw.me"/>
