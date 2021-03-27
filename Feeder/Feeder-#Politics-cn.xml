@@ -25,6 +25,5 @@
 			<outline type="rss" text="想想論壇" title="想想論壇" xmlUrl="http://www.thinkingtaiwan.com/rss/new" htmlUrl="https://www.thinkingtaiwan.com/rss/new"/>
 			<outline type="rss" text="南亞觀察" title="南亞觀察" xmlUrl="http://southasiawatch.tw/feed" htmlUrl="http://southasiawatch.tw"/>
 			<outline type="rss" text="越南最前線" title="越南最前線" xmlUrl="http://viet-loan.blogspot.com/feeds/posts/default" htmlUrl="http://viet-loan.blogspot.com/"/></outline>
-		<outline text="#News - 中文" title="#News - 中文"/>
 	</body>
 </opml>
