@@ -8,11 +8,8 @@
         <outline text="#Entertainment - 中文" title="#Entertainment - 中文">
             <outline type="rss" text="韓星網 - KoreaStarDaily" title="韓星網 - KoreaStarDaily" xmlUrl="http://feed.koreastardaily.com/tc" htmlUrl="http://feed.koreastardaily.com/tc"/>
             <outline type="rss" text="豆瓣最受欢迎的影评" title="豆瓣最受欢迎的影评" xmlUrl="http://www.douban.com/feed/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/"/>
-            <outline type="rss" text="藍色電影夢" title="藍色電影夢" xmlUrl="http://4bluestones.biz/mtblog/atom.xml" htmlUrl="http://4bluestones.biz/mtblog/"/>
-            <outline type="rss" text="個人意見" title="個人意見" xmlUrl="http://mbpo.blogspot.com/feeds/posts/default" htmlUrl="http://mbpo.blogspot.com/"/>
             <outline type="rss" text="青年图摘 - 每天十分钟，开心一整天。" title="青年图摘 - 每天十分钟，开心一整天。" xmlUrl="http://www.qingniantuzhai.com/feed" htmlUrl="https://qingniantuzhai.com/"/>
             <outline type="rss" text="AV No.1 Blog" title="AV No.1 Blog" xmlUrl="http://feeds.feedburner.com/avnoone" htmlUrl="http://www.playno1.com/portal.php?mod=list&amp;catid=1"/>
-            <outline type="rss" text="mLook 看书，（精校电子书，提供精致的书籍和服务）" title="mLook 看书，（精校电子书，提供精致的书籍和服务）" xmlUrl="http://www.mlook.mobi/feed/books" htmlUrl="https://www.mlook.mobi"/>
             <outline type="rss" text="Cinephilia" title="Cinephilia" xmlUrl="http://cinephilia.net/feed" htmlUrl="https://cinephilia.net"/>
             <outline type="rss" text="自拍偷拍,A片,艳照门,H动漫下载, 记得收藏本站哦~" title="自拍偷拍,A片,艳照门,H动漫下载, 记得收藏本站哦~" xmlUrl="http://m8008.com/?feed=rss2" htmlUrl="http://m8008.com"/>
             <outline type="rss" text="和邪社" title="和邪社" xmlUrl="http://www.hexieshe.com/feed" htmlUrl="https://www.hexieshe.com"/>
@@ -26,6 +23,9 @@
             <outline type="rss" text="Punchline 娛樂重擊" title="Punchline 娛樂重擊" xmlUrl="http://punchline.asia/?feed=rss2" htmlUrl="https://punchline.asia"/>
             <outline type="rss" text="豆瓣最受欢迎的书评" title="豆瓣最受欢迎的书评" xmlUrl="http://www.douban.com/feed/review/book" htmlUrl="https://book.douban.com/review/book_best/"/>
             <outline type="rss" text="PTT爆笑搞笑漫畫趣圖" title="PTT爆笑搞笑漫畫趣圖" xmlUrl="http://www.pttjoke.com/feeds/posts/default" htmlUrl="https://www.pttjoke.com/"/>
+            <outline type="rss" text="藍色電影夢" title="藍色電影夢" xmlUrl="http://4bluestones.biz/mtblog/atom.xml" htmlUrl="http://4bluestones.biz/mtblog/"/>
+            <outline type="rss" text="個人意見" title="個人意見" xmlUrl="http://mbpo.blogspot.com/feeds/posts/default" htmlUrl="http://mbpo.blogspot.com/"/>
+            <outline type="rss" text="mLook 看书，（精校电子书，提供精致的书籍和服务）" title="mLook 看书，（精校电子书，提供精致的书籍和服务）" xmlUrl="http://www.mlook.mobi/feed/books" htmlUrl="https://www.mlook.mobi"/>
         </outline>
     </body>
 </opml>
