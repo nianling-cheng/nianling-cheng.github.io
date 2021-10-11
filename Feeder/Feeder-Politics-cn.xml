@@ -5,7 +5,6 @@
 	</head>
 	<body>
 		<outline text="#Politics - 中文" title="#Politics - 中文">
-			<outline type="rss" text="不做历史的看客" title="不做历史的看客" xmlUrl="http://blog.tianya.cn/blogger/rss.asp?BlogID=1744596" htmlUrl="http://tieshuxin.blog.tianya.cn/"/>
 			<outline type="rss" text="guavanthropology.tw 芭樂人類學" title="guavanthropology.tw 芭樂人類學" xmlUrl="http://guavanthropology.tw/feed" htmlUrl="https://guavanthropology.tw"/>
 			<outline type="rss" text="Human Rights Watch News" title="Human Rights Watch News" xmlUrl="http://www.hrw.org/zh-hans/rss/news" htmlUrl="https://www.hrw.org/zh-hans"/>
 			<outline type="rss" text="一眼看天下 – 中華民國外交部國際新聞讀報站" title="一眼看天下 – 中華民國外交部國際新聞讀報站" xmlUrl="http://internationalnewsstation.tw/?event_area=both-coasts,asia-pacific,central-and-south-america,europe,united-states-and-canada,africa&amp;feed=rss2" htmlUrl="https://internationalnewsstation.tw"/>
@@ -23,5 +22,6 @@
 			<outline type="rss" text="想想論壇" title="想想論壇" xmlUrl="http://www.thinkingtaiwan.com/rss/new" htmlUrl="https://www.thinkingtaiwan.com/rss/new"/>
 			<outline type="rss" text="南亞觀察" title="南亞觀察" xmlUrl="http://southasiawatch.tw/feed" htmlUrl="http://southasiawatch.tw"/>
 			<outline type="rss" text="越南最前線" title="越南最前線" xmlUrl="http://viet-loan.blogspot.com/feeds/posts/default" htmlUrl="http://viet-loan.blogspot.com/"/></outline>
+			<outline type="rss" text="不做历史的看客" title="不做历史的看客" xmlUrl="http://blog.tianya.cn/blogger/rss.asp?BlogID=1744596" htmlUrl="http://tieshuxin.blog.tianya.cn/"/>
 	</body>
 </opml>
