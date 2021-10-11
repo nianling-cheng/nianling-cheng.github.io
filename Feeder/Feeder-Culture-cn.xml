@@ -6,7 +6,6 @@
     </head>
     <body>
         <outline text="Culture" title="Culture">
-            <outline type="rss" text="一席" title="一席" xmlUrl="http://rss.kaolafm.com/MZ_RSS/rss/1100000046138/album.xml" htmlUrl="http://www.tingban.cn/"/>
             <outline type="rss" text="左岸读书" title="左岸读书" xmlUrl="http://www.zreading.cn/feed" htmlUrl="http://www.zreading.cn"/>
             <outline type="rss" text="上海书评" title="上海书评" xmlUrl="https://feedx.net/rss/shanghaishuping.xml" htmlUrl="http://thepaper.cn"/>
             <outline type="rss" text="guavanthropology.tw 芭樂人類學" title="guavanthropology.tw 芭樂人類學" xmlUrl="http://guavanthropology.tw/feed" htmlUrl="https://guavanthropology.tw"/>
@@ -26,6 +25,7 @@
             <outline type="rss" text="台灣回憶探險團" title="台灣回憶探險團" xmlUrl="http://www.twmemory.org/?feed=rss2" htmlUrl="https://www.twmemory.org"/>
             <outline type="rss" text="影像日报" title="影像日报" xmlUrl="http://moviesoon.com/news/feed/" htmlUrl="http://moviesoon.com/news"/>
             <outline type="rss" text="三联生活周刊" title="三联生活周刊" xmlUrl="https://rsshub.app/wechat/tgchannel/lifeweek" htmlUrl="https://t.me/s/lifeweek"/>
+            <outline type="rss" text="一席" title="一席" xmlUrl="http://rss.kaolafm.com/MZ_RSS/rss/1100000046138/album.xml" htmlUrl="http://www.tingban.cn/"/>
         </outline>
     </body>
 </opml>
