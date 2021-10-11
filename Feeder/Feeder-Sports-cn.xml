@@ -8,7 +8,6 @@
         <outline text="#Sports - 中文" title="#Sports - 中文">
             <outline type="rss" text="rthk.hk - 即時新聞: 體育" title="rthk.hk - 即時新聞: 體育" xmlUrl="http://rthk.hk/rthk/news/rss/c_expressnews_csport.xml" htmlUrl="https://news.rthk.hk"/>
             <outline type="rss" text="明報新聞網-即時新聞 RSS 體育" title="明報新聞網-即時新聞 RSS 體育" xmlUrl="http://news.mingpao.com/rss/ins/s00006.xml" htmlUrl="https://news.mingpao.com/"/>
-            <outline type="rss" text="趣头条" title="趣头条" xmlUrl="https://rsshub.app/qutoutiao/category/1" htmlUrl="http://home.qutoutiao.net"/>
             <outline type="rss" text="jinritan-半月谈" title="jinritan-半月谈" xmlUrl="https://rsshub.app/banyuetan/jinritan" htmlUrl="http://www.banyuetan.org/byt/jinritan/index.html"/>
             <outline type="rss" text="運動視界 Sports Vision" title="運動視界 Sports Vision" xmlUrl="http://www.sportsv.net/baseball/feed" htmlUrl="https://www.sportsv.net"/>
             <outline type="rss" text="ETtoday 運動新聞" title="ETtoday 運動新聞" xmlUrl="http://feeds.feedburner.com/ettoday/sport" htmlUrl="https://www.ettoday.net"/>
@@ -21,6 +20,7 @@
             <outline type="rss" text="足球專欄 @ 運動邦 痞客邦" title="足球專欄 @ 運動邦 痞客邦" xmlUrl="http://channel.pixnet.net/sport/feed/football" htmlUrl=""/>
             <outline type="rss" text="虎扑篮球新闻" title="虎扑篮球新闻" xmlUrl="http://voice.hupu.com/generated/voice/news_nba.xml" htmlUrl=""/>
             <outline type="rss" text="NBA - news" title="NBA - news" xmlUrl="https://rsshub.app/nba/app_news" htmlUrl="https://kbsapp.sports.qq.com"/>
+            <outline type="rss" text="趣头条" title="趣头条" xmlUrl="https://rsshub.app/qutoutiao/category/1" htmlUrl="http://home.qutoutiao.net"/>
         </outline>
     </body>
 </opml>
