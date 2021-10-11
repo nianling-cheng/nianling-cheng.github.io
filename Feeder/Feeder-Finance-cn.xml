@@ -6,10 +6,8 @@
 	<body>
 		<outline text="#Finance - 中文" title="#Finance - 中文">
 			<outline type="rss" text="財經知識庫－部落格" title="財經知識庫－部落格" xmlUrl="http://www.funddj.com/y/fundblog/rss.aspx" htmlUrl="https://www.moneydj.com/kmdj/blog/bloghome.aspx"/>
-			<outline type="rss" text="投資客日誌" title="投資客日誌" xmlUrl="http://alberthungblog.blogspot.com/feeds/posts/default" htmlUrl="http://alberthungblog.blogspot.com/"/>
 			<outline type="rss" text="华尔街见闻" title="华尔街见闻" xmlUrl="https://dedicated.wallstreetcn.com/rss.xml" htmlUrl="https://wallstreetcn.com"/>
 			<outline type="rss" text="集思录" title="集思录" xmlUrl="https://www.jisilu.cn/feed/" htmlUrl="https://www.jisilu.cn"/>
-			<outline type="rss" text="巴菲特班 洪瑞泰 (Michael On)" title="巴菲特班 洪瑞泰 (Michael On)" xmlUrl="http://mikeon88.blogspot.com/feeds/posts/default" htmlUrl="http://mikeon88.blogspot.com/"/>
 			<outline type="rss" text="今日话题 - 雪球" title="今日话题 - 雪球" xmlUrl="http://xueqiu.com/hots/topic/rss" htmlUrl="http://xueqiu.com/hots/topic"/>
 			<outline type="rss" text="FT中文网_英国《金融时报》(Financial Times)" title="FT中文网_英国《金融时报》(Financial Times)" xmlUrl="http://www.ftchinese.com/sc/rss_r.jsp" htmlUrl="http://www.ftchinese.com/"/>
 			<outline type="rss" text="經濟日報" title="經濟日報" xmlUrl="http://money.udn.com/rssfeed/news/1001/5591/5612?ch=money" htmlUrl="https://money.udn.com"/>
@@ -23,5 +21,7 @@
 			<outline type="rss" text="Chris Skinner's blog" title="Chris Skinner's blog" xmlUrl="http://thefinanser.com/feed/" htmlUrl="https://thefinanser.com"/>
 			<outline type="rss" text="ReinsuranceNe.ws" title="ReinsuranceNe.ws" xmlUrl="https://www.reinsurancene.ws/feed/" htmlUrl="https://www.reinsurancene.ws"/>
 			<outline type="rss" text="News – PYMNTS.com" title="News – PYMNTS.com" xmlUrl="http://www.pymnts.com/news/rss" htmlUrl="https://www.pymnts.com"/></outline>
+			<outline type="rss" text="投資客日誌" title="投資客日誌" xmlUrl="http://alberthungblog.blogspot.com/feeds/posts/default" htmlUrl="http://alberthungblog.blogspot.com/"/>
+			<outline type="rss" text="巴菲特班 洪瑞泰 (Michael On)" title="巴菲特班 洪瑞泰 (Michael On)" xmlUrl="http://mikeon88.blogspot.com/feeds/posts/default" htmlUrl="http://mikeon88.blogspot.com/"/>
 	</body>
 </opml>
