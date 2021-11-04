@@ -5,23 +5,26 @@
 	</head>
 	<body>
 		<outline text="#Politics - 中文" title="#Politics - 中文">
-			<outline type="rss" text="guavanthropology.tw 芭樂人類學" title="guavanthropology.tw 芭樂人類學" xmlUrl="http://guavanthropology.tw/feed" htmlUrl="https://guavanthropology.tw"/>
-			<outline type="rss" text="Human Rights Watch News" title="Human Rights Watch News" xmlUrl="http://www.hrw.org/zh-hans/rss/news" htmlUrl="https://www.hrw.org/zh-hans"/>
-			<outline type="rss" text="一眼看天下 – 中華民國外交部國際新聞讀報站" title="一眼看天下 – 中華民國外交部國際新聞讀報站" xmlUrl="http://internationalnewsstation.tw/?event_area=both-coasts,asia-pacific,central-and-south-america,europe,united-states-and-canada,africa&amp;feed=rss2" htmlUrl="https://internationalnewsstation.tw"/>
-			<outline type="rss" text="政治新聞 - 自由時報" title="政治新聞 - 自由時報" xmlUrl="http://news.ltn.com.tw/rss/politics.xml" htmlUrl="https://news.ltn.com.tw/list/breakingnews/politics"/>
+			<outline type="rss" text="芭樂人類學" title="guavanthropology.tw 芭樂人類學" xmlUrl="http://guavanthropology.tw/feed" htmlUrl="https://guavanthropology.tw"/>
+			<outline type="rss" text="Human Rights Watch" title="Human Rights Watch News" xmlUrl="http://www.hrw.org/zh-hans/rss/news" htmlUrl="https://www.hrw.org/zh-hans"/>
+			<outline type="rss" text="一眼看天下" title="一眼看天下 – 中華民國外交部國際新聞讀報站" xmlUrl="http://internationalnewsstation.tw/?event_area=both-coasts,asia-pacific,central-and-south-america,europe,united-states-and-canada,africa&amp;feed=rss2" htmlUrl="https://internationalnewsstation.tw"/>
+			<outline type="rss" text="自由時報" title="政治新聞 - 自由時報" xmlUrl="http://news.ltn.com.tw/rss/politics.xml" htmlUrl="https://news.ltn.com.tw/list/breakingnews/politics"/>
 			<outline type="rss" text="法律白話文運動" title="法律白話文運動" xmlUrl="http://plainlaw.me/feed/" htmlUrl="https://plainlaw.me"/>
 			<outline type="rss" text="全球深度报道网" title="全球深度报道网" xmlUrl="http://cn.gijn.org/feed/" htmlUrl="https://cn.gijn.org"/>
 			<outline type="rss" text="芒果日報孤狗總部" title="芒果日報孤狗總部" xmlUrl="http://mangodaily2.blogspot.com/feeds/posts/default" htmlUrl="http://mangodaily2.blogspot.com/"/>
-			<outline type="rss" text="法广_头条新闻-RFI" title="法广_头条新闻-RFI" xmlUrl="http://cn.rfi.fr/general/rss/" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%B9%BF_%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB/rss"/>
-			<outline type="rss" text="Stories by 無神論者的巴別塔 on Medium" title="Stories by 無神論者的巴別塔 on Medium" xmlUrl="https://medium.com/feed/@henryporterbabe" htmlUrl="https://medium.com/@henryporterbabe?source=rss-9d3b0c1c8e4e------2"/>
-			<outline type="rss" text="「獨立評論@天下」最新文章" title="「獨立評論@天下」最新文章" xmlUrl="http://www.cw.com.tw/RSS/opinion.xml" htmlUrl="http://opinion.cw.com.tw"/>
-			<outline type="rss" text="端传媒 - 深度" title="端传媒 - 深度" xmlUrl="https://rsshub.app/initium/feature/zh-hans" htmlUrl="https://theinitium.com/channel/feature/"/>
+			<outline type="rss" text="法广_头条新闻" title="法广_头条新闻-RFI" xmlUrl="http://cn.rfi.fr/general/rss/" htmlUrl="http://cn.rfi.fr/%E6%B3%95%E5%B9%BF_%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB/rss"/>
+			<outline type="rss" text="無神論者的巴別塔" title="Stories by 無神論者的巴別塔 on Medium" xmlUrl="https://medium.com/feed/@henryporterbabe" htmlUrl="https://medium.com/@henryporterbabe?source=rss-9d3b0c1c8e4e------2"/>
+			<outline type="rss" text="「獨立評論@天下" title="「獨立評論@天下」最新文章" xmlUrl="http://www.cw.com.tw/RSS/opinion.xml" htmlUrl="http://opinion.cw.com.tw"/>
+			<outline type="rss" text="端传媒-深度" title="端传媒 - 深度" xmlUrl="https://rsshub.app/initium/feature/zh-hans" htmlUrl="https://theinitium.com/channel/feature/"/>
 			<outline type="rss" text="菜市場政治學" title="菜市場政治學" xmlUrl="http://whogovernstw.org/feed/" htmlUrl="https://whogovernstw.org"/>
 			<outline type="rss" text="平行時空" title="平行時空" xmlUrl="http://www.ir-basilica.com/feed/" htmlUrl="http://www.ir-basilica.com"/>
-			<outline type="rss" text="政见 CNPolitics.org" title="政见 CNPolitics.org" xmlUrl="http://cnpolitics.org/feed/" htmlUrl="http://cnpolitics.org"/>
 			<outline type="rss" text="想想論壇" title="想想論壇" xmlUrl="http://www.thinkingtaiwan.com/rss/new" htmlUrl="https://www.thinkingtaiwan.com/rss/new"/>
 			<outline type="rss" text="南亞觀察" title="南亞觀察" xmlUrl="http://southasiawatch.tw/feed" htmlUrl="http://southasiawatch.tw"/>
-			<outline type="rss" text="越南最前線" title="越南最前線" xmlUrl="http://viet-loan.blogspot.com/feeds/posts/default" htmlUrl="http://viet-loan.blogspot.com/"/></outline>
+			<outline type="rss" text="越南最前線" title="越南最前線" xmlUrl="http://viet-loan.blogspot.com/feeds/posts/default" htmlUrl="http://viet-loan.blogspot.com/"/>
 			<outline type="rss" text="不做历史的看客" title="不做历史的看客" xmlUrl="http://blog.tianya.cn/blogger/rss.asp?BlogID=1744596" htmlUrl="http://tieshuxin.blog.tianya.cn/"/>
+<!--
+			<outline type="rss" text="政见" title="政见 CNPolitics.org" xmlUrl="http://cnpolitics.org/feed/" htmlUrl="http://cnpolitics.org"/>
+-->
+		</outline>
 	</body>
 </opml>
