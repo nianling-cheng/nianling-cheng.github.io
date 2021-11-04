@@ -22,8 +22,9 @@
 			<outline type="rss" text="News – PYMNTS.com" title="News – PYMNTS.com" xmlUrl="http://www.pymnts.com/news/rss" htmlUrl="https://www.pymnts.com"/></outline>
 			<outline type="rss" text="投資客日誌" title="投資客日誌" xmlUrl="http://alberthungblog.blogspot.com/feeds/posts/default" htmlUrl="http://alberthungblog.blogspot.com/"/>
 			<outline type="rss" text="巴菲特班" title="巴菲特班 洪瑞泰 (Michael On)" xmlUrl="http://mikeon88.blogspot.com/feeds/posts/default" htmlUrl="http://mikeon88.blogspot.com/"/>
-
+<!--
 			<outline type="rss" text="InsuranceNewsNet" title="InsuranceNewsNet" xmlUrl="http://insurancenewsnet.com/rss.aspx?id=lifehealth&amp;tab=todayspicks" htmlUrl="https://www.insurancenewsnet.com"/>
-	
+-->
+		</outline>
 	</body>
 </opml>
