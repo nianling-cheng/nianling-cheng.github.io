@@ -27,5 +27,6 @@
 			<outline type="rss" text="寰宇新聞網" title="寰宇新聞網" xmlUrl="http://globalnewstv.com.tw/feed/" htmlUrl="http://globalnewstv.com.tw"/>
 			<outline type="rss" text="朝日新聞" title="国际・东亚-朝日新聞中文网" xmlUrl="https://rsshub.app/asahichinese-j/world" htmlUrl="https://asahichinese-j.com/world/"/>
 -->
+		</outline>
 	</body>
 </opml>
