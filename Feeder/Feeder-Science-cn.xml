@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <opml version="1.0">
-    <head>
-        <title>William subscriptions in feedly Cloud</title>
-    </head>
-    <body>
-        <outline text="#Science - 中文" title="#Science - 中文">
-            <outline type="rss" text="知乎每日精选" title="知乎每日精选" xmlUrl="http://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com"/>
-            <outline type="rss" text="認知與情緒新聞網" title="認知與情緒新聞網" xmlUrl="http://cogemonews.com/feed/" htmlUrl="https://cogemonews.com"/>
-            <outline type="rss" text="哇賽！心理學" title="哇賽！心理學" xmlUrl="http://www.appliedpsy.com/feed/" htmlUrl="https://onyourpsy.com"/>
-            <outline type="rss" text="科學最前線" title="科學最前線" xmlUrl="https://sci101.news/feed/" htmlUrl="https://sci101.news"/>
-            <outline type="rss" text="盲眼的尼安德塔石器匠 :: 痞客邦 PIXNET ::" title="盲眼的尼安德塔石器匠 :: 痞客邦 PIXNET ::" xmlUrl="http://feed.pixnet.net/blog/posts/rss/neanderthaldna" htmlUrl="http://neanderthaldna.pixnet.net/blog"/>
-            <outline type="rss" text="国家地理中文" title="国家地理中文" xmlUrl="https://feedx.net/rss/nationalgeocn.xml" htmlUrl="https://www.nationalgeographic.com"/>
-            <outline type="rss" text="美的好朋友" title="美的好朋友" xmlUrl="https://www.medpartner.club/feed/" htmlUrl="https://www.medpartner.club"/>
-            <outline type="rss" text="免费电影" title="免费电影" xmlUrl="http://feeds.feedburner.com/hotreaders" htmlUrl="https://www.12580zp.net"/>
-            <outline type="rss" text="科学网论文RSS——所有论文" title="科学网论文RSS——所有论文" xmlUrl="http://www.sciencenet.cn/xml/paper.aspx?di=0" htmlUrl="http://paper.sciencenet.cn"/>
-            <outline type="rss" text="环球科学" title="环球科学" xmlUrl="https://feedx.net/rss/huanqiukexue.xml" htmlUrl="http://huanqiukexue.com"/>
-            <outline type="rss" text="物理学报-CNKI" title="物理学报-CNKI" xmlUrl="http://rss.cnki.net/kns/rss.aspx?Journal=WLXB&amp;Virtual=knavi" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
-            <outline type="rss" text="爱思想栏目 - [中国近现代史]" title="爱思想栏目 - [中国近现代史]" xmlUrl="https://rsshub.app/aisixiang/column/722" htmlUrl="http://www.aisixiang.com/data/search.php?lanmu=722"/>
-            <outline type="rss" text="生物360 --中文生命科学界资讯站" title="生物360 --中文生命科学界资讯站" xmlUrl="http://www.bio360.net/rss" htmlUrl="http://www.bio360.net/rss"/>
-             <outline type="rss" text="知乎日报" title="知乎日报" xmlUrl="http://feeds.feedburner.com/zhihu-daily" htmlUrl="https://news-at.zhihu.com/api/4/stories/latest?client=0"/>
-            <outline type="rss" text="数学建模网—SHUMO.COM" title="数学建模网—SHUMO.COM" xmlUrl="http://www.shumo.com/home/feed" htmlUrl="https://www.shumo.com/home"/>
-            <outline type="rss" text="實作派電子實驗室" title="實作派電子實驗室" xmlUrl="https://www.strongpilab.com/?feed=rss2" htmlUrl="https://www.strongpilab.com"/>
-            <outline type="rss" text="科學Online" title="科學Online" xmlUrl="http://highscope.ch.ntu.edu.tw/wordpress/?feed=rss2" htmlUrl="https://highscope.ch.ntu.edu.tw/wordpress"/>
-            <outline type="rss" text="果壳精选 guokr.com" title="果壳精选 guokr.com" xmlUrl="http://www.guokr.com/handpick/rss/?display=rss" htmlUrl="http://www.guokr.com/"/>
-            <outline type="rss" text="科學玩具柑仔店(Darling の 優)" title="科學玩具柑仔店(Darling の 優)" xmlUrl="http://kingdarling.blogspot.com/feeds/posts/default" htmlUrl="http://kingdarling.blogspot.com/"/>
-            <outline type="rss" text="不做历史的看客" title="不做历史的看客" xmlUrl="http://blog.tianya.cn/blogger/rss.asp?BlogID=1744596" htmlUrl="http://tieshuxin.blog.tianya.cn/"/>
-        </outline>
-    </body>
+	<head>
+		<title>William subscriptions in feedly Cloud</title>
+	</head>
+	<body>
+		<outline text="#Science - 中文" title="#Science - 中文">
+			<outline type="rss" text="知乎每日精选" title="知乎每日精选" xmlUrl="http://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com"/>
+			<outline type="rss" text="認知與情緒新聞網" title="認知與情緒新聞網" xmlUrl="http://cogemonews.com/feed/" htmlUrl="https://cogemonews.com"/>
+			<outline type="rss" text="哇賽！心理學" title="哇賽！心理學" xmlUrl="http://www.appliedpsy.com/feed/" htmlUrl="https://onyourpsy.com"/>
+			<outline type="rss" text="科學最前線" title="科學最前線" xmlUrl="https://sci101.news/feed/" htmlUrl="https://sci101.news"/>
+			<outline type="rss" text="痞客邦" title="盲眼的尼安德塔石器匠 :: 痞客邦 PIXNET ::" xmlUrl="http://feed.pixnet.net/blog/posts/rss/neanderthaldna" htmlUrl="http://neanderthaldna.pixnet.net/blog"/>
+			<outline type="rss" text="国家地理" title="国家地理中文" xmlUrl="https://feedx.net/rss/nationalgeocn.xml" htmlUrl="https://www.nationalgeographic.com"/>
+			<outline type="rss" text="美的好朋友" title="美的好朋友" xmlUrl="https://www.medpartner.club/feed/" htmlUrl="https://www.medpartner.club"/>
+			<outline type="rss" text="免费电影" title="免费电影" xmlUrl="http://feeds.feedburner.com/hotreaders" htmlUrl="https://www.12580zp.net"/>
+			<outline type="rss" text="科学网论文" title="科学网论文RSS——所有论文" xmlUrl="http://www.sciencenet.cn/xml/paper.aspx?di=0" htmlUrl="http://paper.sciencenet.cn"/>
+			<outline type="rss" text="环球科学" title="环球科学" xmlUrl="https://feedx.net/rss/huanqiukexue.xml" htmlUrl="http://huanqiukexue.com"/>
+			<outline type="rss" text="物理学报" title="物理学报-CNKI" xmlUrl="http://rss.cnki.net/kns/rss.aspx?Journal=WLXB&amp;Virtual=knavi" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+			<outline type="rss" text="爱思想栏目" title="爱思想栏目 - [中国近现代史]" xmlUrl="https://rsshub.app/aisixiang/column/722" htmlUrl="http://www.aisixiang.com/data/search.php?lanmu=722"/>
+			<outline type="rss" text="生物360" title="生物360 --中文生命科学界资讯站" xmlUrl="http://www.bio360.net/rss" htmlUrl="http://www.bio360.net/rss"/>
+			<outline type="rss" text="知乎日报" title="知乎日报" xmlUrl="http://feeds.feedburner.com/zhihu-daily" htmlUrl="https://news-at.zhihu.com/api/4/stories/latest?client=0"/>
+			<outline type="rss" text="数学建模网" title="数学建模网—SHUMO.COM" xmlUrl="http://www.shumo.com/home/feed" htmlUrl="https://www.shumo.com/home"/>
+			<outline type="rss" text="實作派電子實驗室" title="實作派電子實驗室" xmlUrl="https://www.strongpilab.com/?feed=rss2" htmlUrl="https://www.strongpilab.com"/>
+			<outline type="rss" text="科學玩具柑仔店" title="科學玩具柑仔店(Darling の 優)" xmlUrl="http://kingdarling.blogspot.com/feeds/posts/default" htmlUrl="http://kingdarling.blogspot.com/"/>
+			<outline type="rss" text="不做历史的看客" title="不做历史的看客" xmlUrl="http://blog.tianya.cn/blogger/rss.asp?BlogID=1744596" htmlUrl="http://tieshuxin.blog.tianya.cn/"/>
+<!--
+			<outline type="rss" text="科學Online" title="科學Online" xmlUrl="http://highscope.ch.ntu.edu.tw/wordpress/?feed=rss2" htmlUrl="https://highscope.ch.ntu.edu.tw/wordpress"/>
+			<outline type="rss" text="果壳精选" title="果壳精选 guokr.com" xmlUrl="http://www.guokr.com/handpick/rss/?display=rss" htmlUrl="http://www.guokr.com/"/>
+-->
+		</outline>
+	</body>
 </opml>
