@@ -24,7 +24,7 @@
             <outline type="rss" text="一席" title="一席" xmlUrl="http://rss.kaolafm.com/MZ_RSS/rss/1100000046138/album.xml" htmlUrl="http://www.tingban.cn/"/>
             <outline type="rss" text="左岸读书" title="左岸读书" xmlUrl="http://www.zreading.cn/feed" htmlUrl="http://www.zreading.cn"/>
             <outline type="rss" text="Deutsche Welle" title="Deutsche Welle" xmlUrl="http://rss.dw.de/atom/rss-chi-all" htmlUrl=""/>
-            <outline type="rss" text="文化_界面新闻" title="界面新闻" xmlUrl="https://rsshub.app/jiemian/list/130" htmlUrl="https://a.jiemian.com/index.php?m=lists&amp;a=ajaxNews&amp;cid=130&amp;page=1"/>
+            <outline type="rss" text="界面新闻" title="界面新闻" xmlUrl="https://rsshub.app/jiemian/list/130" htmlUrl="https://a.jiemian.com/index.php?m=lists&amp;a=ajaxNews&amp;cid=130&amp;page=1"/>
             <outline type="rss" text="白板报" title="白板报" xmlUrl="http://www.baibanbao.net/feed/" htmlUrl="https://wangpei.net"/>
         </outline>
     </body>
