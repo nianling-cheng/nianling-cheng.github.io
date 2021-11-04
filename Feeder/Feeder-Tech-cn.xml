@@ -5,10 +5,10 @@
 	</head>
 	<body>
 		<outline text="#Tech - 中文" title="#Tech - 中文">
-			<outline type="rss" text="TechNews 科技新報" title="TechNews 科技新報" xmlUrl="http://technews.tw/feed/" htmlUrl="https://technews.tw"/>
+			<outline type="rss" text="科技新報" title="TechNews 科技新報" xmlUrl="http://technews.tw/feed/" htmlUrl="https://technews.tw"/>
 			<outline type="rss" text="軟體玩家" title="軟體玩家" xmlUrl="http://feeds.feedburner.com/quicktop" htmlUrl="https://pcrookie.com"/>
-			<outline type="rss" text="免費資源網路社群" title="免費資源網路社群" xmlUrl="http://feeds.feedburner.com/freegroup" htmlUrl="https://free.com.tw"/>
-			<outline type="rss" text="cnBeta.COM RSS订阅" title="cnBeta.COM RSS订阅" xmlUrl="http://www.cnbeta.com/backend.php" htmlUrl="https://www.cnbeta.com"/>
+			<outline type="rss" text="免費資源網路" title="免費資源網路社群" xmlUrl="http://feeds.feedburner.com/freegroup" htmlUrl="https://free.com.tw"/>
+			<outline type="rss" text="cnBeta" title="cnBeta.COM RSS订阅" xmlUrl="http://www.cnbeta.com/backend.php" htmlUrl="https://www.cnbeta.com"/>
 			<outline type="rss" text="极客公园" title="极客公园" xmlUrl="http://feeds.geekpark.net/" htmlUrl="http://main_test.geekpark.net/rss.rss"/>
 			<outline type="rss" text="虎嗅网" title="虎嗅网" xmlUrl="http://www.huxiu.com/rss/0.xml" htmlUrl="http://www.huxiu.com"/>
 			<outline type="rss" text="雷锋网" title="雷锋网" xmlUrl="http://www.leiphone.com/feed" htmlUrl="https://www.leiphone.com"/>
@@ -16,16 +16,18 @@
 			<outline type="rss" text="T客邦" title="T客邦" xmlUrl="http://feeds.feedburner.com/techbang" htmlUrl="https://www.techbang.com/"/>
 			<outline type="rss" text="INSIDE" title="INSIDE" xmlUrl="http://www.inside.com.tw/feed" htmlUrl="https://www.inside.com.tw"/>
 			<outline type="rss" text="免費軟體下載" title="免費軟體下載" xmlUrl="http://moonpoet.com/feed/" htmlUrl="https://moonpoet.com"/>
-			<outline type="rss" text="就是教不落 – 給你最豐富的 3C 資訊、教學網站" title="就是教不落 – 給你最豐富的 3C 資訊、教學網站" xmlUrl="http://steachs.com/feed" htmlUrl="https://steachs.com"/>
-			<outline type="rss" text="Android 資訊雜誌 android-hk.com" title="Android 資訊雜誌 android-hk.com" xmlUrl="http://www.android-hk.com/feed/" htmlUrl="https://www.android-hk.com"/>
+			<outline type="rss" text="就是教不落" title="就是教不落 – 給你最豐富的 3C 資訊、教學網站" xmlUrl="http://steachs.com/feed" htmlUrl="https://steachs.com"/>
+			<outline type="rss" text="android-hk.com" title="Android 資訊雜誌 android-hk.com" xmlUrl="http://www.android-hk.com/feed/" htmlUrl="https://www.android-hk.com"/>
 			<outline type="rss" text="IT之家" title="IT之家" xmlUrl="http://www.ithome.com/rss/" htmlUrl="https://www.ithome.com/"/>
 			<outline type="rss" text="36氪" title="36氪" xmlUrl="http://www.36kr.com/feed" htmlUrl="http://36kr.com"/>
-			<outline type="rss" text="硬是要學 SOFT4FUN" title="硬是要學 SOFT4FUN" xmlUrl="http://feeds.feedburner.com/soft4funtw" htmlUrl="https://www.soft4fun.net"/>
-			<outline type="rss" text="威锋网-首页-最新RSS订阅" title="威锋网-首页-最新RSS订阅" xmlUrl="http://www.weiphone.com/rss.xml" htmlUrl="https://www.feng.com"/>
-			<outline type="rss" text="電腦領域 HKEPC Hardware" title="電腦領域 HKEPC Hardware" xmlUrl="http://www.hkepc.com/feed" htmlUrl="http://www.hkepc.com"/>
-			<outline type="rss" text="數位時代 BusinessNext" title="數位時代 BusinessNext" xmlUrl="http://www.bnext.com.tw/Feed/rss/home" htmlUrl="https://www.bnext.com.tw"/>
+			<outline type="rss" text="SOFT4FUN" title="硬是要學 SOFT4FUN" xmlUrl="http://feeds.feedburner.com/soft4funtw" htmlUrl="https://www.soft4fun.net"/>
+			<outline type="rss" text="HKEPC" title="電腦領域 HKEPC Hardware" xmlUrl="http://www.hkepc.com/feed" htmlUrl="http://www.hkepc.com"/>
 			<outline type="rss" text="電腦玩物" title="電腦玩物" xmlUrl="http://feeds.feedburner.com/playpc" htmlUrl="http://www.playpcesor.com/"/>
-			<outline type="rss" text="Engadget Traditional Chinese Summary RSS" title="Engadget Traditional Chinese Summary RSS" xmlUrl="http://chinese.engadget.com/rss.xml" htmlUrl="http://chinese.engadget.com"/>
+			<outline type="rss" text="Engadget" title="Engadget Traditional Chinese Summary RSS" xmlUrl="http://chinese.engadget.com/rss.xml" htmlUrl="http://chinese.engadget.com"/>
+<!--
+			<outline type="rss" text="威锋网" title="威锋网-首页-最新RSS订阅" xmlUrl="http://www.weiphone.com/rss.xml" htmlUrl="https://www.feng.com"/>
+			<outline type="rss" text="BusinessNext" title="數位時代 BusinessNext" xmlUrl="http://www.bnext.com.tw/Feed/rss/home" htmlUrl="https://www.bnext.com.tw"/>
+-->
 		</outline>	
 	</body>
 </opml>
