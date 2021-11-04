@@ -25,8 +25,8 @@
             <outline type="rss" text="藍色電影夢" title="藍色電影夢" xmlUrl="http://4bluestones.biz/mtblog/atom.xml" htmlUrl="http://4bluestones.biz/mtblog/"/>
             <outline type="rss" text="個人意見" title="個人意見" xmlUrl="http://mbpo.blogspot.com/feeds/posts/default" htmlUrl="http://mbpo.blogspot.com/"/>
             <outline type="rss" text="mLook 看书" title="mLook 看书，（精校电子书，提供精致的书籍和服务）" xmlUrl="http://www.mlook.mobi/feed/books" htmlUrl="https://www.mlook.mobi"/>
-
+<!--
             <outline type="rss" text="糗事百科" title="糗事百科" xmlUrl="http://feed.qiushibaike.com/rss" htmlUrl="http://www.qiushibaike.com/"/>
-        </outline>
+-->
     </body>
 </opml>
