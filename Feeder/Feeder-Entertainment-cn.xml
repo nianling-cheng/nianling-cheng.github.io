@@ -6,8 +6,8 @@
     </head>
     <body>
         <outline text="#Entertainment - 中文" title="#Entertainment - 中文">
-            <outline type="rss" text="韓星網 - KoreaStarDaily" title="韓星網 - KoreaStarDaily" xmlUrl="http://feed.koreastardaily.com/tc" htmlUrl="http://feed.koreastardaily.com/tc"/>
-            <outline type="rss" text="豆瓣最受欢迎的影评" title="豆瓣最受欢迎的影评" xmlUrl="http://www.douban.com/feed/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/"/>
+            <outline type="rss" text="韓星網" title="韓星網 - KoreaStarDaily" xmlUrl="http://feed.koreastardaily.com/tc" htmlUrl="http://feed.koreastardaily.com/tc"/>
+            <outline type="rss" text="豆瓣最受欢迎的影评" title="豆瓣影评" xmlUrl="http://www.douban.com/feed/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/"/>
             <outline type="rss" text="青年图摘 - 每天十分钟，开心一整天。" title="青年图摘 - 每天十分钟，开心一整天。" xmlUrl="http://www.qingniantuzhai.com/feed" htmlUrl="https://qingniantuzhai.com/"/>
             <outline type="rss" text="AV No.1 Blog" title="AV No.1 Blog" xmlUrl="http://feeds.feedburner.com/avnoone" htmlUrl="http://www.playno1.com/portal.php?mod=list&amp;catid=1"/>
             <outline type="rss" text="Cinephilia" title="Cinephilia" xmlUrl="http://cinephilia.net/feed" htmlUrl="https://cinephilia.net"/>
